@@ -1,6 +1,6 @@
 # Ganti judul di bawah dengan judul AU-mu.
-judul | Judul AU
-wallpaper | bg.jpg
+judul | The Things We Never Call Love
+wallpaper | a_rc.jpg
 # Daftar part: nama file | judul part | keterangan (opsional). Part yang file-nya belum ada tampil "Segera hadir".
 part1.txt | Part 1 |
 part2.txt | Part 2 |
