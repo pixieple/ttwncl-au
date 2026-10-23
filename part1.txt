@@ -9,8 +9,8 @@
 # WALLPAPER ROOM CHAT: tambahkan nama file di akhir penanda POV, contoh:  --- POV: Alysa’s Phone | A | foto/bg-alysa.jpg ---
 #   atau tulis baris sendiri  [wallpaper] foto/bg-lain.jpg  (berlaku untuk semua room di bawahnya sampai diganti lagi).
 #   Kalau tidak diisi, dipakai wallpaper umum dari daftar.txt. Baris "[wallpaper]" kosong = kembali ke wallpaper umum.
---- POV: Alysa’s Phone | A ---
-[wa] rumpi no secret muach🤫💅🏻 | grup.jpg | Chandra 911, Ganang Artis Komplek, Kirana Ratu Emot, You
+--- POV: Alysa’s Phone | A | pict/a_rc.jpg ---
+[wa] rumpi no secret muach🤫💅🏻 | pict/rumpi.jpg | Chandra 911, Ganang Artis Komplek, Kirana Ratu Emot, You
 G: dah pada tau belom
 G: anak pak rahmat
 A: itu beneran?
@@ -44,7 +44,7 @@ G: si jesi nyelonong masuk sampe depan pintu kamar mandi
 G: diketok dong pintu kamar mandinya
 K: 😦
 A: hah
-A: [sent a sticker]
+A: [sent a sticker: pict/1.jpg]
 G: si chandra ga denger itu, jadi si jesi langsung muter kenop pintunya
 A: HAH
 G: untungnya dikunci anjir
@@ -68,12 +68,12 @@ K: Eh anjir
 K: Gue call bokap dulu lah
 A: ki ini gue otw ke tempat mereka sama ayah 😭 ntar gue kabarin
 K: Tiati sa jangan lupa video 🫰🏻
-A: [sent a video]
+A: [sent a video: pict/2.jpg]
 K: Anjir
 A: dah aman ki, untung si chandra gaperlu ikut ke kantor
 K: Ini bonyok juga udah otw ke sana
-A: [sent a picture] ni anak langsung ngademin pikiran di depan kulkas 😭
-A: [sent a picture] nih penontonnya juga mau difoto katanya
+A: [sent a picture: pict/3.jpg] ni anak langsung ngademin pikiran di depan kulkas 😭
+A: [sent a picture: pict/4.jpg] nih penontonnya juga mau difoto katanya
 A: masnya lagi babak belur adeknya malah gibahin masnya di grup
 C: anjing banget sumpah
 K: Chan 😭 Idup lu ada-ada aja sih 😭
@@ -85,7 +85,7 @@ G: cuma buat nerima alpukat dari dia
 C: lo banyangin perasaan gue
 G: sebiji
 C: LO BAYANGIN PERASAAN GUE
-A: [sent a sticker]
+A: [sent a sticker: pict/5.jpg]
 K: 😭
 K: Terus lu apain tu anak?
 C: gue usir anjing
@@ -96,7 +96,7 @@ C: tu anak punya otak ga si
 K: 😭
 G: WKWKKWKWWK
 G: SUMPAH INI CERITA LUCU BANGET GUE NGAKAK SAMPE NANGIS PAS DICERITAIN SAMA MAMAH DULU
-A: [sent a sticker]
+A: [sent a sticker: pict/5.jpg]
 A: terus yang tadi gimana, kok bisa berantem sampe pake senjata gitu
 C: tu orang nanya gue tapi pas gue jawab malah kaga percaya jir
 C: gue udah bilang gue kaga deket sama jesi, gue kaga ada hubungan apa-apa
@@ -104,7 +104,7 @@ C: dianya ga percaya ngatain gue bohong segala macem
 C: katanya si jesi sering kesini alesannya nganter alpukat tapi lama banget, pasti gue apa-apain jesi jadi gue harus nikahin dia. akhirnya gue ribut lah
 C: congore njaluk di cor
 K: 😭
-A: [sent a sticker]
+A: [sent a sticker: pict/5.jpg]
 C: ga sudi gue apa-apain tu anak
 K: lumayan chan modal alpukat doang dapet bini
 C: ogah
@@ -132,7 +132,7 @@ K: Cariin dong chan
 G: gue ada nih temen jomblo cakep pisan anak konglo kaya raya tajir melintir
 G: sikat ki
 A: kalo itu gue juga #minat
-A: [sent a sticker]
+A: [sent a sticker: pict/7.jpg]
 C: [replied to A's chat: kalo itu gue juga #minat] lo cari cowok sa?
 A: enggak sih...
 A: tapi kalo ada yg mau boleh lah hehehe
@@ -141,6 +141,7 @@ G: anu, maksud gue temennya chandra kan banyak tuh. siapa tau ada yang mau sama 
 C: ya liat nanti
 K: [replied to G's chat: gue ada nih temen jomblo cakep pisan anak konglo kaya raya tajir melintir] MAU 🤩🤩🤩
 G: ok ntar gue kenalin ya ki
+--- 🍀🍀🍀 ---
 [twitter]
 tweet by C: gue jadi trauma sama alpukat
 G: disuruh ngawinin anak orang padahal udah punya calon istri waduh waduh
