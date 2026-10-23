@@ -1,0 +1,153 @@
+# CARA MENULIS PART. Satu file = satu part, ditulis urut seperti naskah.
+# --- POV: nama HP | KODE ---   penanda pindah POV. KODE = pemilik HP (bubble di kanan).
+# [wa] nama room | foto | anggota (opsional), lalu baris chat "KODE: pesan". Room terbuka saat diketuk.
+#   Penanda chat: [replied to K's chat: kutipan] pesan | [sent a sticker] | [sent a picture: foto-1.jpg] keterangan | [delete his message: isi lama] | @11.55 PM (jam)
+# [twitter], lalu baris "tweet by KODE: isi" dan balasannya "KODE: isi" atau "KODE [replied to KODE]: isi".
+#   Info tweet opsional tepat di bawahnya: waktu: 5 menit | suka: 2 | repost: 0 | tayang: 158 | gambar: foto-tweet.jpg
+# [narasi], lalu tulis teksnya. Tiap baris jadi satu paragraf, langsung terlihat tanpa diketuk.
+# --- teks apa saja ---   jadi penanda pemisah biasa.
+--- POV: Alysa’s Phone | A ---
+[wa] rumpi no secret muach🤫💅🏻 | grup.jpg | Chandra 911, Ganang Artis Komplek, Kirana Ratu Emot, You
+G: dah pada tau belom
+G: anak pak rahmat
+A: itu beneran?
+G: iye
+G: ketauan aborsi
+G: gue sama chandra abis di interogasi anjir dikira bapaknya tu anak
+K: Pak rahmat yang mana 🤔
+K: Anaknya yang mana 🤔
+A: [replied to K's chat: Pak rahmat yang mana] yg sekomplek ama gue
+A: yg punya pohon alpukat
+K: OOO PAK ALPUKAT 🥑
+K: Lah anaknya yg dulu smp udah berani ngecat rambut blonde pas ke sekolah itu bukan 😭
+K: Emang gede sih nyali tu anak 😭
+A: chandra mana
+G: masih di interogasi jir
+A: hah 😭
+G: soalnya sa
+G: si jesi anak pak rahmat tuh naksir sama chandra
+K: 😦
+G: dia sering tuh ngirimin alpukat ke rumah gue (kata mamah)
+G: gataunya buat tptp ama si chandra doang
+G: barang sebiji doang tetep dia anterin
+A: buset dah
+A: kenapa gue kaga pernah dikasih sih 😭
+G: jesi mah maunya cuma sama mamas chandra 🤭
+G: pernah tau kejadian, mamah papah lagi pergi jadi chandra di rumah sendirian
+G: dia lagi mandi kan, nah pasitu jesi dateng bawain alpukat
+G: keknya dia denger deh ada suara orang lagi mandi, mana chandra kalo mandi suka sambil karaokean lagi. jadi ketauan lah kalo chandra yg lagi mandi
+G: karna ada chandra jadi rumah kan kaga dikunci tuh sama mamah
+G: si jesi nyelonong masuk sampe depan pintu kamar mandi
+G: diketok dong pintu kamar mandinya
+K: 😦
+A: hah
+A: [sent a sticker]
+G: si chandra ga denger itu, jadi si jesi langsung muter kenop pintunya
+A: HAH
+G: untungnya dikunci anjir
+G: si chandra panik terus dia matiin lagunya, teriak "siapa?"
+G: "jesi kak, bukain pintunya dong"
+A: HAH
+A: mana lanjutannya
+K: Lanjut woy gue nungguin anjir
+G: sabar
+G: bentar guys chandra sama pak ahmat lagi berantem
+A: hah
+A: gue otw kesana yak
+G: jangan sa
+G: bapaknya bawa golok
+A: hahhh 😭😭😭😭😭
+A: eh beneran gasi
+K: Sa gue kepo setengah mati 😔
+K: Please samperin, videoin dari jauh 😔
+A: APA NIH KOK GUE DENGER SIRINE MOBIL PATROLI
+K: Eh anjir
+K: Gue call bokap dulu lah
+A: ki ini gue otw ke tempat mereka sama ayah 😭 ntar gue kabarin
+K: Tiati sa jangan lupa video 🫰🏻
+A: [sent a video]
+K: Anjir
+A: dah aman ki, untung si chandra gaperlu ikut ke kantor
+K: Ini bonyok juga udah otw ke sana
+A: [sent a picture] ni anak langsung ngademin pikiran di depan kulkas 😭
+A: [sent a picture] nih penontonnya juga mau difoto katanya
+A: masnya lagi babak belur adeknya malah gibahin masnya di grup
+C: anjing banget sumpah
+K: Chan 😭 Idup lu ada-ada aja sih 😭
+K: Eh lanjut dong yang tadi @Ganang Artis Komplek
+G: [replied to Ganang Artis Komplek's chat: "jesi kak, bukain pintunya dong"]
+G: chandra jawab, "eh gue lagi mandi"
+G: tapi si jesi ni maksa, akhirnya chandra pake baju terus keluar tuh
+G: cuma buat nerima alpukat dari dia
+C: lo banyangin perasaan gue
+G: sebiji
+C: LO BAYANGIN PERASAAN GUE
+A: [sent a sticker]
+K: 😭
+K: Terus lu apain tu anak?
+C: gue usir anjing
+C: batin gue jancok tenan wong iki a
+A: udah keluar jawanya si chandra = marah besar
+C: gue bilangin tuh mending dia tanemin alpukat di rumah gue biar gaperlu repot kirimin gue sebiji-sebiji sampe gedorin pintu orang lagi mandi
+C: tu anak punya otak ga si
+K: 😭
+G: WKWKKWKWWK
+G: SUMPAH INI CERITA LUCU BANGET GUE NGAKAK SAMPE NANGIS PAS DICERITAIN SAMA MAMAH DULU
+A: [sent a sticker]
+A: terus yang tadi gimana, kok bisa berantem sampe pake senjata gitu
+C: tu orang nanya gue tapi pas gue jawab malah kaga percaya jir
+C: gue udah bilang gue kaga deket sama jesi, gue kaga ada hubungan apa-apa
+C: dianya ga percaya ngatain gue bohong segala macem
+C: katanya si jesi sering kesini alesannya nganter alpukat tapi lama banget, pasti gue apa-apain jesi jadi gue harus nikahin dia. akhirnya gue ribut lah
+C: congore njaluk di cor
+K: 😭
+A: [sent a sticker]
+C: ga sudi gue apa-apain tu anak
+K: lumayan chan modal alpukat doang dapet bini
+C: ogah
+G: eh gue tadi ditanyain ga sampe segitunya deh
+G: apa karna gue jarang dirumah ya jadi dia percaya" aja?
+C: emang kampret tu orang
+C: sengaja ngejebak gue biar nikahin anak dia
+G: sampe si chandra ngomong, "saya sudah punya calon istri pak"
+A: hah siapa wkwkw ngibul banget
+G: lo lah, kocak. siapa lagi? 😂
+K: 😦
+K: Em gue ga ikutan loh
+G: [delete his message: lo lah, kocak. siapa lagi? 😂]
+A: hah
+G: bercanda sa hehe
+K: Liatin sa, si ganang digebukin chandra kaga wkwk 😂😂😂
+A: dikatain jancok doang terus lari ke belakang gue si ganang 😭
+K: 😭
+C: gausah lo percaya omongan orang gila
+G: siapa yang gila?
+C: lo lah, kocak. siapa lagi? 😂
+G: anjing
+K: Gue jadi pengen punya calon suami juga
+K: Cariin dong chan
+G: gue ada nih temen jomblo cakep pisan anak konglo kaya raya tajir melintir
+G: sikat ki
+A: kalo itu gue juga #minat
+A: [sent a sticker]
+C: [replied to A's chat: kalo itu gue juga #minat] lo cari cowok sa?
+A: enggak sih...
+A: tapi kalo ada yg mau boleh lah hehehe
+G: sikat bang
+G: anu, maksud gue temennya chandra kan banyak tuh. siapa tau ada yang mau sama alysa
+C: ya liat nanti
+K: [replied to G's chat: gue ada nih temen jomblo cakep pisan anak konglo kaya raya tajir melintir] MAU 🤩🤩🤩
+G: ok ntar gue kenalin ya ki
+[twitter]
+tweet by C: gue jadi trauma sama alpukat
+G: disuruh ngawinin anak orang padahal udah punya calon istri waduh waduh
+C [replied to G]: jancok
+K: Alpukat bonus calon bini 👰🏻‍♀️
+C [replied to K]: jancok
+A: mangga aja mangga, gue punyanya mangga
+C [replied to A]: mau
+tweet by G: pilih kasih banget dah giliran sama keluarga sendiri kasar banget
+K: Iya lagi 😔😔
+C: gausah nyindir-nyindir
+G [replied to C]: lah emang gue ngomongin lo? sorry ye kalo kesindir
+C [replied to G]: jancok

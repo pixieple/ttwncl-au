@@ -1,0 +1,10 @@
+# Daftar akun. Format: KODE | nama di WhatsApp | nama di Twitter | @username | foto profil | label (boleh kosong)
+# Kode huruf kecil dipakai untuk akun Twitter kedua (privat). Akun baru tinggal ditambah di bawah.
+A | Alysa | asyla | @matchaas | profil-A.jpg |
+C | Chandra 911 | chan | @chxxsa | profil-C.jpg |
+G | Ganang Artis Komplek | gan mode biasa | @imatiger_g | profil-G.jpg |
+K | Kirana Ratu Emot | Kiranaa🥐 | @sourseelie | profil-K.jpg |
+W | williamon_u | William Onu S. | @williamon_u | profil-W.jpg |
+w | - | - | @won_now | profil-w.jpg |
+a | king mango 🥭 | king mango 🥭 | @itsnotsaa | profil-a.jpg |
+c | 💫 | 💫 | @sapidabalap_ | profil-c.jpg |
