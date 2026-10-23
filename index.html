@@ -6,8 +6,8 @@
 <title>The Things We Never Call Love</title>
 <style>
 :root{--bg:#ececf0;--head:#f6f6f6;--ink:#111114;--mute:#7c7c85;--bub:#fff;--own:#c8e4fb;--line:#d9d9df;--chip:rgba(226,229,247,.93);--wash:transparent;--blue:#0a84ff;--tbg:#fff;--tink:#0f1419;--tmute:#536471;--tline:#eff3f4;--xb:#1d9bf0;--C:#c5480e;--G:#1d62c4;--K:#a0287f;--A:#1b7f5c;--W:#7a3fb5;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0d0d12;--head:#1c1c22;--ink:#ececf2;--mute:#9a9aa5;--bub:#26262e;--own:#1d4766;--line:#34343c;--chip:rgba(44,44,60,.93);--wash:rgba(13,13,18,.78);--blue:#4aa3ff;--tbg:#000;--tink:#e7e9ea;--tmute:#71767b;--tline:#2f3336;--C:#ff9466;--G:#7db4ff;--K:#ff8ad8;--A:#5fd0a0;--W:#c9a2ff;color-scheme:dark}}
-:root[data-theme="dark"]{--bg:#0d0d12;--head:#1c1c22;--ink:#ececf2;--mute:#9a9aa5;--bub:#26262e;--own:#1d4766;--line:#34343c;--chip:rgba(44,44,60,.93);--wash:rgba(13,13,18,.78);--blue:#4aa3ff;--tbg:#000;--tink:#e7e9ea;--tmute:#71767b;--tline:#2f3336;--C:#ff9466;--G:#7db4ff;--K:#ff8ad8;--A:#5fd0a0;--W:#c9a2ff;color-scheme:dark}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0d0d12;--head:#1c1c22;--ink:#ececf2;--mute:#9a9aa5;--bub:#26262e;--own:#1d4766;--line:#34343c;--chip:rgba(44,44,60,.93);--wash:rgba(13,13,18,.45);--blue:#4aa3ff;--tbg:#000;--tink:#e7e9ea;--tmute:#71767b;--tline:#2f3336;--C:#ff9466;--G:#7db4ff;--K:#ff8ad8;--A:#5fd0a0;--W:#c9a2ff;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0d0d12;--head:#1c1c22;--ink:#ececf2;--mute:#9a9aa5;--bub:#26262e;--own:#1d4766;--line:#34343c;--chip:rgba(44,44,60,.93);--wash:rgba(13,13,18,.45);--blue:#4aa3ff;--tbg:#000;--tink:#e7e9ea;--tmute:#71767b;--tline:#2f3336;--C:#ff9466;--G:#7db4ff;--K:#ff8ad8;--A:#5fd0a0;--W:#c9a2ff;color-scheme:dark}
 html{scroll-padding-top:env(safe-area-inset-top,0px)}
 body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.35 -apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",system-ui,sans-serif}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--head)}
@@ -144,8 +144,8 @@ nav .on i{filter:none}
 .bd2 b{display:block}
 .bd2 small{display:block;color:var(--mute);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .wh2 i{color:var(--mute);font-style:normal;font-size:13px}
-.wab{position:relative;padding:0 0 12px;background:var(--bg);overflow:hidden;overflow:clip}
-.wpl{position:sticky;top:0;z-index:0;height:100vh;margin:0 0 -100vh;background:var(--wp,url(bg.jpg)) center/cover no-repeat;pointer-events:none}
+.wab{position:relative;isolation:isolate;padding:0 0 12px;background:var(--bg);overflow:hidden;overflow:clip}
+.wpl{position:sticky;top:0;z-index:-1;height:100vh;margin:0 0 -100vh;background:var(--wp,url(bg.jpg)) center/cover no-repeat;pointer-events:none}
 .wpl::after{content:"";position:absolute;inset:0;background:var(--wash)}
 .wab .row{position:relative;z-index:1;padding:0 10px}
 .wab .chip{position:relative;z-index:1}
@@ -159,6 +159,10 @@ nav .on i{filter:none}
 .rsm{margin:10px 12px;padding:12px;border:1px solid var(--line);border-radius:14px;background:var(--bub);display:flex;gap:8px;flex-wrap:wrap}
 .rsm button{border:1px solid var(--line);background:none;color:var(--blue);border-radius:16px;padding:6px 12px;font:inherit;font-size:14px;cursor:pointer}
 #toast{position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:#222;color:#fff;padding:8px 16px;border-radius:20px;font-size:14px;z-index:20}
+.stk{display:block;width:120px;height:120px;object-fit:contain}
+.vid{position:relative}
+.vid .pl{position:absolute;inset:0;display:grid;place-items:center;font-size:40px;color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.6)}
+</style>
 </style>
 </head>
 <body>
@@ -207,13 +211,14 @@ const bubbles=(chat,CHAT,me)=>{let last='',tm='';const rows=[];
     if(q){const dq=$('div','q');dq.style.borderColor=col(q.k);const qn=$('b',null,pk(q.k).n);qn.style.color=col(q.k);dq.append(qn,q.t);b.append(dq)}
     const isDel=/^\[delete/.test(t);
     if(isDel){b.append(document.createTextNode(dl?dl[1]:''))}
-    else if(/^\[sent a (sticker|stiker)\]$/.test(t)){b.append($('div','st','stiker'))}
-    else if((x=t.match(/^\[sent a (picture|video)(?::\s*([^\]]+))?\]\s*(.*)$/))){
-      const f=x[2]&&x[2].trim();
-      if(x[1]==='picture'&&f){const i=$('img','ph');i.loading='lazy';i.alt='';i.src=f;i.onerror=()=>i.replaceWith($('div','st','foto'));b.append(i)}
-      else b.append($('div','st',x[1]==='video'?'video':'foto'));
-      if(x[3])b.append($('div','cap',x[3]));
-    }
+    else if((x=t.match(/^\[sent a (picture|video|sticker|stiker)(?::\s*([^\]]+))?\]\s*(.*)$/))){
+  const f=x[2]&&x[2].trim(),sk=/^(sticker|stiker)$/.test(x[1]),lbl=sk?'stiker':x[1]==='video'?'video':'foto';
+  if(f){
+    const i=$('img',sk?'stk':'ph');i.loading='lazy';i.alt='';i.src=f;i.onerror=()=>i.replaceWith($('div','st',lbl));
+    if(x[1]==='video'){const w=$('div','vid');w.append(i,$('span','pl','▶'));b.append(w)}else b.append(i);
+  }else b.append($('div','st',lbl));
+  if(x[3])b.append($('div','cap',x[3]));
+}
     else if(t){b.append(t)}
     if(tm){const s=$('span','tm',tm);if(k===me){s.append(' ',$('span','ck','✓✓'))}b.append(s)}
     if(isDel){const old=[...b.childNodes].filter(notNm);old.forEach(n=>n.remove());mkDel(b,old)}
@@ -222,12 +227,12 @@ const bubbles=(chat,CHAT,me)=>{let last='',tm='';const rows=[];
   };
 const tweetsOf=TWEETS=>{const T=[];
   TWEETS.split('\n').forEach(l=>{
-    let m=l.match(/^tweet by ([A-Z]): ?(.*)$/);
+    let m=l.match(/^tweet by ([A-Za-z]): ?(.*)$/);
     if(m){T.push({k:m[1],t:m[2],r:[]});return}
     const c=T[T.length-1];if(!c)return;
     m=l.match(/^(waktu|suka|repost|tayang|gambar): ?(.*)$/);
     if(m){c[m[1]]=m[2].trim();return}
-    m=l.match(/^([A-Z])(?: \[replied to ([A-Z])\])?: ?(.*)$/);
+    m=l.match(/^([A-Za-z])(?: \[replied to ([A-Z])\])?: ?(.*)$/);
     if(m)c.r.push({k:m[1],to:m[2],t:m[3]});
   });
   return T};
