@@ -9,7 +9,8 @@
 # WALLPAPER ROOM CHAT: tambahkan nama file di akhir penanda POV, contoh:  --- POV: Alysa’s Phone | A | foto/bg-alysa.jpg ---
 #   atau tulis baris sendiri  [wallpaper] foto/bg-lain.jpg  (berlaku untuk semua room di bawahnya sampai diganti lagi).
 #   Kalau tidak diisi, dipakai wallpaper umum dari daftar.txt. Baris "[wallpaper]" kosong = kembali ke wallpaper umum.
---- POV: Alysa’s Phone | A | pict/a_rc.jpg ---
+--- POV: Alysa’s Phone | A  ---
+[wallpaper] pict/a_rc.jpg
 [wa] rumpi no secret muach🤫💅🏻 | pict/rumpi.jpg | Chandra 911, Ganang Artis Komplek, Kirana Ratu Emot, You
 G: dah pada tau belom
 G: anak pak rahmat
