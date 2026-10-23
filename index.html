@@ -162,7 +162,15 @@ nav .on i{filter:none}
 .stk{display:block;width:120px;height:120px;object-fit:contain}
 .vid{position:relative}
 .vid .pl{position:absolute;inset:0;display:grid;place-items:center;font-size:40px;color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.6)}
-</style>
+.pnav{display:flex;gap:10px;margin:24px 12px 0}
+.pnav button{flex:1;padding:12px;border:1px solid var(--line);border-radius:14px;background:var(--bub);color:var(--blue);font:inherit;font-size:15px;cursor:pointer}
+.pnav button:disabled{opacity:.4;cursor:default}
+.pn.dmv{background:var(--tbg);border-color:var(--tline)}
+.pn.dmv .wab,.pn.dmv .wpl{background:var(--tbg)!important}
+.pn.dmv .wh2{color:var(--tink)}
+.dmv .b{background:var(--tline);box-shadow:none;color:var(--tink)}
+.dmv .me .b{background:var(--xb);color:#fff}
+.dmv .ck{display:none}
 </style>
 </head>
 <body>
@@ -175,7 +183,7 @@ let P=defP();
 const pk=k=>P[k]||(P[k]={n:k,h:k,u:'@'+k});
 const $=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e};
 const E=id=>document.getElementById(id);
-const col=k=>'var(--'+('ACGKW'.includes(k)?k:'W')+')';
+const col=k=>{const p=pk(k);if(p.c)return p.c;const c=k.charCodeAt(0),i=c<97?c-65:c-71,dk=matchMedia('(prefers-color-scheme:dark)').matches;return 'hsl('+Math.round(i*137.5%360)+' 62% '+(dk?72:38)+'%)'};
 const byName=s=>{s=s.trim();if(P[s])return s;return Object.keys(P).find(k=>s.indexOf(P[k].n.split(' ')[0])===0)||'A'};
 const pic=(box,src)=>{if(!src)return;const i=new Image();i.alt='';i.onerror=()=>i.remove();i.src=src;box.append(i)};
 const av=k=>{const a=$('div','av',pk(k).h[0].toUpperCase());a.style.background=col(k);pic(a,pk(k).img);return a};
@@ -194,12 +202,12 @@ const mkDel=(b,old)=>{
   const draw=()=>{[...b.childNodes].filter(notNm).forEach(n=>n.remove());if(shown)b.append(tag,...old);else b.append(hide)};
   b.onclick=()=>{shown=!shown;draw()};draw();
 };
-const bubbles=(chat,CHAT,me)=>{let last='',tm='';const rows=[];
+const bubbles=(chat,CHAT,me,grp)=>{let last='',tm='';const rows=[];
   CHAT.split('\n').forEach(l=>{
     if(l[0]==='@'){tm=l.slice(1).trim();return}
     const pm=l.match(/^---\s*(.+?)\s*---\s*$/);
     if(pm){chat.append($('div','chip',pm[1]));last='';return}
-    const m=l.match(/^([A-Z]): ?(.*)$/);if(!m)return;
+    const m=l.match(/^([A-Za-z]): ?(.*)$/);if(!m)return;
     const k=m[1];let t=m[2].trim(),q=null,x;
     const dl=t.match(/^\[delete[^:]*: ?(.*)\]$/);
     if(dl){const hit=rows.filter(o=>o.k===k&&o.t===dl[1].trim()).pop();if(hit){const old=[...hit.b.childNodes].filter(notNm);old.forEach(n=>n.remove());mkDel(hit.b,old);return}}
@@ -207,7 +215,7 @@ const bubbles=(chat,CHAT,me)=>{let last='',tm='';const rows=[];
     if(r){q={k:byName(r[1]),t:r[2]};t=r[3]}
     const row=$('div','row'+(k===me?' me':'')+(k!==last?' first':''));
     const b=$('div','b');
-    if(k!==me&&k!==last){const n=$('div','nm',pk(k).n);n.style.color=col(k);b.append(n)}
+    if(grp&&k!==me&&k!==last){const n=$('div','nm',pk(k).n);n.style.color=col(k);b.append(n)}
     if(q){const dq=$('div','q');dq.style.borderColor=col(q.k);const qn=$('b',null,pk(q.k).n);qn.style.color=col(q.k);dq.append(qn,q.t);b.append(dq)}
     const isDel=/^\[delete/.test(t);
     if(isDel){b.append(document.createTextNode(dl?dl[1]:''))}
@@ -252,7 +260,7 @@ const parsePart=txt=>{
     if(m){const f=m[1].split('|').map(x=>x.trim()),pv=/^POV:/i.test(f[0]);if(pv){if(f[1])me=f[1];if(f[2])wp=f[2]}out.push({t:'chip',x:pv?f[0]:m[1],pov:pv});cur=null;return}
     m=l.match(/^\[wallpaper\]\s*(.*)$/i);
     if(m){wp=m[1].trim();return}
-    m=l.match(/^\[(wa|twitter|narasi)\]\s*(.*)$/i);
+    m=l.match(/^\[(wa|twitter|narasi|dm twitter)\]\s*(.*)$/i);
     if(m){cur={t:m[1].toLowerCase(),me,wp,a:m[2].split('|').map(x=>x.trim()),lines:[]};out.push(cur);return}
     if(cur)cur.lines.push(l);
   });
@@ -272,14 +280,14 @@ const mkTw=c=>{
 const mkWa=b=>{
   const [n,img,mem]=b.a,p=$('div','pn wa'),h=$('div','wh2'),bd=$('div','bd2'),ar=$('i',null,'▾'),wab=$('div','wab');
   let lastTxt='',built=false;
-  b.lines.forEach(l=>{const m=l.match(/^([A-Za-z]): ?(.*)$/);if(m&&!/^\[delete/.test(m[2])){let t=m[2].replace(/^\[replied to .*?\]\s*/,'');t=/^\[sent a/.test(t)?'📷 '+t.replace(/^\[sent a [^\]]*\]\s*/,''):t;lastTxt=(m[1]===b.me?'Kamu':pk(m[1]).n.split(' ')[0])+': '+t}});
+  b.lines.forEach(l=>{const m=l.match(/^([A-Za-z]): ?(.*)$/);if(m&&!/^\[delete/.test(m[2])){let t=m[2].replace(/^\[replied to .*?\]\s*/,'');t=/^\[sent a/.test(t)?'📷 '+t.replace(/^\[sent a [^\]]*\]\s*/,''):t;lastTxt=(mem?(m[1]===b.me?'Kamu':pk(m[1]).n.split(' ')[0])+': ':'')+t}});
   const a=$('div','av',(n||'?')[0].toUpperCase());a.style.background=col('W');pic(a,img);
   const pv=$('small',null,lastTxt);bd.append($('b',null,n),pv);h.append(a,bd,ar);wab.hidden=true;const wpl=$('div','wpl');if(b.wp)wpl.style.backgroundImage='url("'+b.wp.replace(/"/g,'%22')+'")';wab.append(wpl);
-  h.onclick=()=>{const open=wab.hidden;wab.hidden=!open;pv.textContent=open?(mem||''):lastTxt;pv.hidden=open&&!mem;ar.textContent=open?'▴':'▾';if(open&&!built){built=true;bubbles(wab,b.lines.join('\n'),b.me)}};
+  h.onclick=()=>{const open=wab.hidden;wab.hidden=!open;pv.textContent=open?(mem||''):lastTxt;pv.hidden=open&&!mem;ar.textContent=open?'▴':'▾';if(open&&!built){built=true;bubbles(wab,b.lines.join('\n'),b.me,!!mem)}};
   p.append(h,wab);p._wab=wab;p._open=()=>{if(wab.hidden)h.onclick()};return p;
 };
 const mkNar=b=>{const d=$('div','nar');b.lines.forEach(l=>{if(l.trim())d.append($('p',null,l.trim()))});return d};
-
+const mkDm=b=>{const [n,img,k]=b.a,p=mkWa({...b,a:[n,img,''],me:k||b.me,wp:''});p.classList.add('dmv');return p};
 function renderPart(txt){
   const flow=E('flow');flow.replaceChildren();panels=[];
   const add=el=>{el.dataset.i=panels.length;panels.push(el);flow.append(el)};
@@ -287,6 +295,7 @@ function renderPart(txt){
     if(b.t==='chip')add($('div','chip'+(b.pov?' pov':''),b.x));
     else if(b.t==='wa')add(mkWa(b));
     else if(b.t==='narasi')add(mkNar(b));
+    else if(b.t==='dm twitter')add(mkDm(b));
     else tweetsOf(b.lines.join('\n')).forEach(c=>add(mkTw(c)));
   });
   const first=panels.find(el=>el._open);if(first)first._open();
@@ -330,6 +339,10 @@ function showHome(){
 function openPart(p){
   pid=p.id;E('home').hidden=true;E('rd').hidden=false;document.body.classList.add('dev');
   E('ptl').textContent=p.n;renderPart(p.txt);
+  const ix=D.parts.findIndex(x=>x.id===p.id),nv=$('div','pnav');
+  const mk=(q,t)=>{const b=$('button',null,t);if(q&&q.txt)b.onclick=()=>{location.hash=q.id;route()};else b.disabled=true;return b};
+  nv.append(mk(D.parts[ix-1],'‹ Part sebelumnya'),mk(D.parts[ix+1],'Part berikutnya ›'));
+  E('flow').append(nv);
   const L=ld('last'),B=ld('bm'),r=$('div','rsm');
   if(L&&L.p===pid&&(L.i>0||L.m>0||L.o>0)){const b=$('button',null,'Lanjut dari terakhir dibaca');b.onclick=()=>goPos(L);r.append(b)}
   if(B&&B.p===pid){const b=$('button',null,'🔖 Ke bookmark');b.onclick=()=>goPos(B);r.append(b)}
@@ -348,7 +361,7 @@ Promise.all([getTxt('daftar.txt'),getTxt('akun.txt')]).then(([d,a])=>{
   });
   (okTxt(a)?a:'').split('\n').forEach(l=>{
     if(!l.trim()||l[0]==='#')return;const f=l.split('|').map(x=>x.trim());if(!f[0])return;
-    const p=pk(f[0]);if(f[1])p.n=f[1];if(f[2])p.h=f[2];if(f[3])p.u=f[3];if(f[4])p.img=f[4];if(f[5])p.lab=f[5];
+    const p=pk(f[0]);if(f[1])p.n=f[1];if(f[2])p.h=f[2];if(f[3])p.u=f[3];if(f[4])p.img=f[4];if(f[5])p.lab=f[5];if(f[6])p.c=f[6];
   });
   return Promise.all(D.parts.map(p=>getTxt(p.file).then(t=>{p.txt=okTxt(t)?t:''})));
 }).then(()=>{document.title=D.t||'The Things We Never Call Love';route()});
