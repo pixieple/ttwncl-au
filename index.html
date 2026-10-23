@@ -289,6 +289,7 @@ function renderPart(txt){
     else if(b.t==='narasi')add(mkNar(b));
     else tweetsOf(b.lines.join('\n')).forEach(c=>add(mkTw(c)));
   });
+  const first=panels.find(el=>el._open);if(first)first._open();
 }
 const TOP=64;
 const curPos=()=>{
