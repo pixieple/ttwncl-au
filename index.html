@@ -232,7 +232,7 @@ const tweetsOf=TWEETS=>{const T=[];
     const c=T[T.length-1];if(!c)return;
     m=l.match(/^(waktu|suka|repost|tayang|gambar): ?(.*)$/);
     if(m){c[m[1]]=m[2].trim();return}
-    m=l.match(/^([A-Za-z])(?: \[replied to ([A-Z])\])?: ?(.*)$/);
+    m=l.match(/^([A-Za-z])(?: \[replied to ([A-Za-z])\])?: ?(.*)$/);
     if(m)c.r.push({k:m[1],to:m[2],t:m[3]});
   });
   return T};
