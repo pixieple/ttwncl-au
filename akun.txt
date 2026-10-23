@@ -1,11 +1,31 @@
 # Daftar akun. Format: KODE | nama di WhatsApp | nama di Twitter | @username | foto profil | label (boleh kosong)
 # Kode huruf kecil dipakai untuk akun Twitter kedua (privat). Akun baru tinggal ditambah di bawah.
-A | Alysa | asyla | @matchaas | pict/a_x.jpg |
+A | alysaa | asyla | @matchaas | pict/a_x.jpg |
+B | Ayah |
 C | Chandra 911 | chan | @chxxsa | pict/c_x.jpg |
+E | Jehian Saputra Marketing |
 G | Ganang Artis Komplek | Ganang. | @ganang_en | pict/g_x.jpg |
+H | Chandra Eka Nugroho Editor |
+I | Ibun |
+J | Joshua Aditya BM |
 K | Kirana Ratu Emot | Kiranaa🥐 | @sourseelie | pict/k_x.jpg |
-W | williamon_u | William Onu S. | @williamon_u | pict/w_x.jpg |
-w | - | - | @won_now | pict/w.jpg |
+M | Mama |
+Q | Angeline🤍 |
+R | Rosesiana IT |
+S | samuel |
+T | Katarina Putri HRD |
+V | Vernando |
+W | William Onu | William Onu S. | @williamon_u | pict/w_x.jpg |
+Z | Alysa Angel 🤍 |
 a | king mango 🥭 | king mango 🥭 | @itsnotsaa | pict/a.jpg |
-c | 💫 | 💫 | @sapidabalap_ | pict/c.jpg |
-g | gan mode biasa | gan mode biasa | @imatiger_g | pict/g.jpg |
+c | mas galak | 💫 | @sapidabalap_ | pict/c.jpg |
+e | bang jehian sc |
+g | ganang | gan mode biasa | @imatiger_g | pict/g.jpg |
+j | pak josh sc |
+k | kiki |
+m | Mama Onu |
+r | rose sc |
+t | katarina sc |
+v | Bos Vernando |
+w | onu sc | - | @won_now | pict/w.jpg |
+z | Alysa Teman Chandra |
