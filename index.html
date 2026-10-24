@@ -181,6 +181,10 @@ nav .on i{filter:none}
 .qrt .xt{font-size:15px;margin-top:4px}
 .qrt .ph2{margin-top:8px}
 .vb{display:inline-grid;place-items:center;width:15px;height:15px;border-radius:50%;background:#1d9bf0;color:#fff;font-size:10px;margin-left:4px;vertical-align:1px}
+.callb{display:flex;align-items:center;gap:8px}
+.callb i{font-style:normal;display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:rgba(127,127,127,.18)}
+.callb.ms b{color:#e5333f}
+.cd{color:var(--mute);font-size:13px;margin:2px 0 0 42px}
 </style>
 </head>
 <body>
@@ -230,6 +234,7 @@ const bubbles=(chat,CHAT,me,grp)=>{let last='',tm='';const rows=[];
     if(q){const dq=$('div','q');dq.style.borderColor=col(q.k);const qn=$('b',null,pk(q.k).n+(q.s?' · Status':''));qn.style.color=col(q.k);dq.append(qn);q.t.split('|').map(x=>x.trim()).forEach(x=>{if(/\.(jpe?g|png|webp|gif)$/i.test(x)){const im=pimg(x);im.style.cssText='width:96px;margin:4px 0 0;border-radius:8px';dq.append(im)}else if(x)dq.append(x)});b.append(dq)}
     const isDel=/^\[delete/.test(t);
     if(isDel){b.append(document.createTextNode(dl?dl[1]:''))}
+    else if((x=t.match(/^\[call:\s*(.*?)\]\s*$/i))){const s=x[1],vd=/video/i.test(s),ms=/tak|missed/i.test(s),du=s.replace(/video|suara|tak terjawab|missed/ig,'').trim(),cb=$('div','callb'+(ms?' ms':''));cb.append($('i',null,vd?'🎥':'📞'),$('b',null,'Panggilan '+(vd?'video':'suara')+(ms?' tak terjawab':'')));b.append(cb);if(du)b.append($('div','cd',du))}
     else if((x=t.match(/^\[sent a (picture|video|sticker|stiker)(?::\s*([^\]]+))?\]\s*(.*)$/))){
   const f=x[2]&&x[2].trim(),sk=/^(sticker|stiker)$/.test(x[1]),lbl=sk?'stiker':x[1]==='video'?'video':'foto';
   if(f){
