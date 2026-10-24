@@ -203,6 +203,8 @@ const acts=c=>{const d=$('div','acts');[['re',c.r?c.r.length||'':''],['rt',c.rep
 const pimg=f=>{const i=$('img','ph2');i.loading='lazy';i.alt='';i.src=f;i.onerror=()=>i.remove();return i};
 const lab=k=>pk(k).lab?$('div','lb','🎭 '+pk(k).lab):null;
 const hn=k=>{const b=$('b',null,pk(k).h);if(pk(k).v)b.append($('span','vb','✓'));return b};
+const nameLine=(k,tm)=>{const d=$('div','nl');d.append(hn(k),$('span','mt',' '+pk(k).u+(tm?' · '+tm:'')));return d};
+const notNm=n=>!n.classList||!n.classList.contains('nm');
 const mkDel=(b,old)=>{
   b.classList.add('dl');
   const hide=$('span','del','🚫 Pesan ini telah dihapus'),tag=$('div','dtag','🚫 Pesan ini dihapus · ketuk untuk menutup');
