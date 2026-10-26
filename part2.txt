@@ -146,7 +146,7 @@ A: *boongan
 G: bego banget lo sa
 G: *kepo
 C: bisa diem ga lo berdua
-A: [replied G's chat: *kepo] yakin lo itu typo? bukan karna emg pengen ngatain gue?? 🤔
+A: [replied to G's chat: *kepo] yakin lo itu typo? bukan karna emg pengen ngatain gue?? 🤔
 G: mohon maaf tuan dan nyonya 🙏🏻
 K: besok beneran maleman nih mainnya?
 K: 😔
@@ -211,7 +211,7 @@ g: suit suit sendirian aje neng...
 A [replied to g]: gak boleh cat calling
 C [replied to A]: gak usah ngewaro kucing kampung sa
 g [replied to C]: lo tuh yang kampung
-tweet by C: [post a picture: twt_3.jpg] 🍫
+tweet by C: [post a picture: pict/twt_3.jpg] 🍫
 suka: 127
 g: lo jelek bang
 C [replied to g]: jancok
@@ -223,7 +223,7 @@ g [replied to C]: oh iya ki 🤭🤭🤭
 K [replied to g]: Tau kan? 🤭🤭🤭
 A [replied to K]: apa nih?? 🤔
 g [replied to A]: bego
-g [ replied to g]: *kepo
+g [replied to g]: *kepo
 A [replied to g]: ih apasihhh
 C [replied to A]: biarin tu mereka berdua gila sa
 --- 🍀🍀🍀 ---
