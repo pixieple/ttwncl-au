@@ -58,7 +58,7 @@ tweet by C: wts @ganang_en free packing bisa co oren freeing se Indonesia raya b
 G: guys liat abang gue jahat banget :(
 C [replied to G]: ga usah playing victim
 W [replied to C]: Lah dia adek lo Chan?
-C [replied to W]: lo kalo mau ambil aja, gue mah ogah punya adek macem dia\
+C [replied to W]: lo kalo mau ambil aja, gue mah ogah punya adek macem dia
 K: HAHAHAAH DIJUAL 😂😂😂
 A: cie love language kalian berantem ya?
 C [replied to A]: gue ga cinta dia
@@ -198,12 +198,13 @@ Onu sempat khawatir karna anjingnya terkenal kurang ramah dengan orang baru. Nam
 “Yeay, yuk main sama kakak, yuk?” ucap Alysa sambil menimang-nimang Angel. Onu memperhatikan mereka berdua sambil tersenyum, “Dia biasanya gamau loh sama orang yang baru ketemu. Kamu suka ya, sama kak Alysa?” Alysa hanya tersenyum mendengarnya.
 Tak jauh dari mereka, Chandra memerhatikan interaksi antara Onu dan Alysa yang terlihat sangat dekat. Chandra hanya menghembuskan nafasnya kasar sambil berusaha tetap menikmati acaranya.
 [twitter]
-tweet by C: [post a picture: pict/twt_1.jpg] happy wedding bro jehian 🫡 @jjhian_
+tweet by C: happy wedding bro jehian 🫡 @jjhian_
+gambar: pict/twt_1.jpg
 suka: 1
 repost: 1
 E: thanks ma bro
-tweet by A: [post a picture: pict/twt_2.jpg] #today🍀
-taken by @chxxsa
+tweet by A: #today🍀 taken by @chxxsa
+gambar: pict/twt_2.jpg
 suka: 211
 K: Piwit cantik 😳 kiw kiw
 A [replied to K]: iyaa sayangg 😉
@@ -211,7 +212,8 @@ g: suit suit sendirian aje neng...
 A [replied to g]: gak boleh cat calling
 C [replied to A]: gak usah ngewaro kucing kampung sa
 g [replied to C]: lo tuh yang kampung
-tweet by C: [post a picture: pict/twt_3.jpg] 🍫
+tweet by C: 🍫
+gambar: pict/twt_3.jpg
 suka: 127
 g: lo jelek bang
 C [replied to g]: jancok
@@ -228,21 +230,24 @@ A [replied to g]: ih apasihhh
 C [replied to A]: biarin tu mereka berdua gila sa
 --- 🍀🍀🍀 ---
 [twitter]
-tweet by A: [post a picture: pict/twt_4.jpg] nurutin kanjeng ratu @sourseelie
-bersama para dayang @chxxsa @imatiger_g
+tweet by A: nurutin kanjeng ratu @sourseelie bersama para dayang @chxxsa @imatiger_g
+gambar: pict/twt_4.jpg
 suka: 3
 repost: 3
 K: Kanjeng ratu pasti menang 😎😎😎
 A [replied to K]: liat aj nnti
 g: lo mah dayang, gue pangeran
 A [replied to g]: apa nih twitnya kok kosong gaada tulisannya
-tweet by g: [post a picture: pict/twt_5] saya kalah main uno dari alysa cantik @matchaas
+tweet by g: saya kalah main uno dari alysa cantik @matchaas
+gambar: pict/twt_5.jpg
 suka: 3
 repost: 3
-tweet by K: [post a picture: pict/twt_6] Saya kalah main uno dari alysa cantik @matchaas
+tweet by K: Saya kalah main uno dari alysa cantik @matchaas
+gambar: pict/twt_6.jpg
 suka: 10
 repost: 3
-tweet by C: [post a picture: pict/twt_7] saya kalah main uno dari alysa cantik @matchaas
+tweet by C: saya kalah main uno dari alysa cantik @matchaas
+gambar: pict/twt_7.jpg
 suka: 15
 repost: 6
 W: Hahaha
@@ -256,7 +261,9 @@ C [replied to T]: atleast gue wangi
 tweet by w: Oh @matchaas itu akun dia?
 w: Follow deh
 --- POV: Alysa's Phone | A  ---
-tweet by A: [post a picture: pict/a1.jpg] gemeeeeccc bgttt >.< haloo angelll
+[twitter]
+tweet by A: gemeeeeccc bgttt >.< haloo angelll
+gambar: pict/a1.jpg
 W: Haloo kak Alysa, ini papanya Angel
 A [replied to W]: haloo papa onu ^^ angel lagi apaa?
 W [replied to A]: Angelnya udah bobo, btw aku boleh minta foto-foto Angel yang lain nggak?
