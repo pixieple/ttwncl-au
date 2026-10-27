@@ -4,3 +4,7 @@ wallpaper | bg.jpg
 # Daftar part: nama file | judul part | keterangan (opsional). Part yang file-nya belum ada tampil "Segera hadir".
 part1.txt | Part 1 |
 part2.txt | Part 2 |
+part3.txt | Part 3 |
+part4.txt | Part 4 |
+part5.txt | Part 5 |
+part6.txt | Part 6 |
