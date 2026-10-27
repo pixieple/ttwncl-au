@@ -185,6 +185,9 @@ nav .on i{filter:none}
 .callb i{font-style:normal;display:grid;place-items:center;width:34px;height:34px;border-radius:50%;background:rgba(127,127,127,.18)}
 .callb.ms b{color:#e5333f}
 .cd{color:var(--mute);font-size:13px;margin:2px 0 0 42px}
+.ed{font-style:italic}
+.eh{margin:6px 0 4px;padding:6px 8px;border-radius:8px;background:rgba(127,127,127,.14);font-size:14px}
+.eo{color:var(--mute);margin-top:2px}
 </style>
 </head>
 <body>
@@ -217,6 +220,16 @@ const mkDel=(b,old)=>{
   const draw=()=>{[...b.childNodes].filter(notNm).forEach(n=>n.remove());if(shown)b.append(tag,...old);else b.append(hide)};
   b.onclick=()=>{shown=!shown;draw()};draw();
 };
+const mkEdit=(hit,nt,old)=>{
+  const b=hit.b;b.classList.add('dl');(hit.h=hit.h||[]).push(old);
+  const tn=[...b.childNodes].find(n=>n.nodeType===3);
+  if(tn)tn.nodeValue=nt;else b.insertBefore(document.createTextNode(nt),b.querySelector('.tm'));
+  let tm=b.querySelector('.tm');if(!tm){tm=$('span','tm','');b.append(tm)}
+  if(!tm.querySelector('.ed'))tm.prepend($('span','ed','Diedit · '));
+  let eh=b.querySelector('.eh');if(!eh){eh=$('div','eh');eh.hidden=true;b.insertBefore(eh,tm)}
+  eh.replaceChildren($('div','dtag','Riwayat edit · ketuk untuk menutup'),...hit.h.map((x,i)=>$('div','eo',(i+1)+'. '+x)));
+  b.onclick=()=>{eh.hidden=!eh.hidden};hit.t=nt;
+};
 const bubbles=(chat,CHAT,me,grp)=>{let last='',tm='';const rows=[];
   CHAT.split('\n').forEach(l=>{
     if(l[0]==='@'){tm=l.slice(1).trim();return}
@@ -226,6 +239,8 @@ const bubbles=(chat,CHAT,me,grp)=>{let last='',tm='';const rows=[];
     const k=m[1];let t=m[2].trim(),q=null,x;
     const dl=t.match(/^\[delete[^:]*: ?(.*)\]$/);
     if(dl){const hit=rows.filter(o=>o.k===k&&o.t===dl[1].trim()).pop();if(hit){const old=[...hit.b.childNodes].filter(notNm);old.forEach(n=>n.remove());mkDel(hit.b,old);return}}
+    const ed=t.match(/^\[edit[^:]*: ?(.*?)\]\s*(.*)$/);
+    if(ed){const hit=rows.filter(o=>o.k===k&&o.t===ed[1].trim()).pop();if(hit){mkEdit(hit,ed[2].trim(),hit.t);return}}
     const r=t.match(/^\[replied to (.+?)'s (chat|status): (.*?)\]\s*(.*)$/);
     if(r){q={k:byName(r[1]),t:r[3],s:r[2]==='status'};t=r[4]}
     const row=$('div','row'+(k===me?' me':'')+(k!==last?' first':''));
