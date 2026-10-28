@@ -188,6 +188,7 @@ nav .on i{filter:none}
 .ed{font-style:italic}
 .eh{margin:6px 0 4px;padding:6px 8px;border-radius:8px;background:rgba(127,127,127,.14);font-size:14px}
 .eo{color:var(--mute);margin-top:2px}
+.fwd{color:var(--mute);font-size:13px;font-style:italic;margin-bottom:3px}
 </style>
 </head>
 <body>
@@ -243,9 +244,12 @@ const bubbles=(chat,CHAT,me,grp)=>{let last='',tm='';const rows=[];
     if(ed){const hit=rows.filter(o=>o.k===k&&o.t===ed[1].trim()).pop();if(hit){mkEdit(hit,ed[2].trim(),hit.t);return}}
     const r=t.match(/^\[replied to (.+?)'s (chat|status): (.*?)\]\s*(.*)$/);
     if(r){q={k:byName(r[1]),t:r[3],s:r[2]==='status'};t=r[4]}
+    let fw=0;const fm=t.match(/^\[(?:forwarded|diteruskan)(\s+(?:many|banyak))?\]\s*(.*)$/i);
+    if(fm){fw=fm[1]?2:1;t=fm[2]}
     const row=$('div','row'+(k===me?' me':'')+(k!==last?' first':''));
     const b=$('div','b');
     if(grp&&k!==me&&k!==last){const n=$('div','nm',pk(k).n);n.style.color=col(k);b.append(n)}
+    if(fw)b.append($('div','fwd',fw>1?'↪ Diteruskan berkali-kali':'↪ Diteruskan'));
     if(q){const dq=$('div','q');dq.style.borderColor=col(q.k);const qn=$('b',null,pk(q.k).n+(q.s?' · Status':''));qn.style.color=col(q.k);dq.append(qn);q.t.split('|').map(x=>x.trim()).forEach(x=>{if(/\.(jpe?g|png|webp|gif)$/i.test(x)){const im=pimg(x);im.style.cssText='width:96px;margin:4px 0 0;border-radius:8px';dq.append(im)}else if(x)dq.append(x)});b.append(dq)}
     const isDel=/^\[delete/.test(t);
     if(isDel){b.append(document.createTextNode(dl?dl[1]:''))}
@@ -312,7 +316,7 @@ const mkTw=c=>{
 const mkWa=b=>{
   const [n,img,mem]=b.a,p=$('div','pn wa'),h=$('div','wh2'),bd=$('div','bd2'),ar=$('i',null,'▾'),wab=$('div','wab');
   let lastTxt='',built=false;
-  b.lines.forEach(l=>{const m=l.match(/^([A-Za-z]): ?(.*)$/);if(m&&!/^\[delete/.test(m[2])){let t=m[2].replace(/^\[replied to .*?\]\s*/,'');t=/^\[sent a/.test(t)?'📷 '+t.replace(/^\[sent a [^\]]*\]\s*/,''):t;lastTxt=(mem?(m[1]===b.me?'Kamu':pk(m[1]).n.split(' ')[0])+': ':'')+t}});
+  b.lines.forEach(l=>{const m=l.match(/^([A-Za-z]): ?(.*)$/);if(m&&!/^\[delete/.test(m[2])){let t=m[2].replace(/^\[replied to .*?\]\s*/,'').replace(/^\[(?:forwarded|diteruskan)(?:\s+(?:many|banyak))?\]\s*/i,'');t=/^\[sent a/.test(t)?'📷 '+t.replace(/^\[sent a [^\]]*\]\s*/,''):t;lastTxt=(mem?(m[1]===b.me?'Kamu':pk(m[1]).n.split(' ')[0])+': ':'')+t}});
   const a=$('div','av',(n||'?')[0].toUpperCase());a.style.background=col('W');pic(a,img);
   const pv=$('small',null,lastTxt);bd.append($('b',null,n),pv);h.append(a,bd,ar);wab.hidden=true;const wpl=$('div','wpl');if(b.wp)wpl.style.backgroundImage='url("'+b.wp.replace(/"/g,'%22')+'")';wab.append(wpl);
   h.onclick=()=>{const open=wab.hidden;wab.hidden=!open;pv.textContent=open?(mem||''):lastTxt;pv.hidden=open&&!mem;ar.textContent=open?'▴':'▾';if(open&&!built){built=true;bubbles(wab,b.lines.join('\n'),b.me,!!mem)}};
