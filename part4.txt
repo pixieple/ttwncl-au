@@ -5,7 +5,7 @@ a: kayanya cakep deh klo buat angel
 a [replied to a]: beliin kali yak, ga enak ah kemaren gue main bawa tangan kosong doang
 a [replied to a]: mana pulangnya dianterin lagi
 --- POV: Chandra’s Phone | C  ---
-[wallpaper: pict/c_rc.jpg ]
+[wallpaper] pict/c_rc.jpg
 [wa] alysaa | pict/a_wa.jpg |
 A: [sent a sticker: pict/14.jpg]
 A: chan
@@ -71,7 +71,7 @@ C: oke
 tweet by c: yes
 c: mulus bat yak keren bet gue 😎
 --- POV: Alysa’s Phone | A  ---
-[wallpaper: pict/a_rc.jpg]
+[wallpaper] pict/a_rc.jpg
 [wa] Onu temen chandra | pict/w_wa.jpg |
 W: [sent a picture: pict/a5.jpg] Haloo kak Alsya
 W: Terima kasih bajunya ya kakak Alsya :)
@@ -133,7 +133,7 @@ tweet by a: apakah ini saatnya gue MOVE ON
 a: markicob
 --- 🍀🍀🍀 ---
 --- POV: Chandra’s Phone | C  ---
-[wallpaper: pict/c_rc.jpg]
+[wallpaper] pict/c_rc.jpg
 [wa] rumpi no secret muach 🤫💅🏻 | pict/rumpi.jpg | alysaa, ganang, kiki, You
 g: GUYS
 g: WKWKW
@@ -278,7 +278,7 @@ a [replied to a]: potek dikit karna tau lo udh suka sama org tp yaudah deh.. adi
 --- 🍀🍀🍀 ---
 [status] You | pict/a_wa.jpg | pict/a6.jpg | 7.12 PM
 yeaay main lagi sama angel imup imuppp >.< 
-[wallpaper: pict/a_rc.jpg]
+[wallpaper] pict/a_rc.jpg
 [wa] Chandra 911 | pict/c_wa.jpg |
 C: [replied to A's status: pict/a6.jpg | yeaay main lagi sama angel imup imuppp >.<] lah lo lagi ketemu onu sa?
 A: main sama angell wkwk
@@ -317,7 +317,7 @@ tweet by c: gue juga sa
 c: gue juga bakal tetep sayang sama lo
 c [replied to c]: huft wtb pil anti friendzone
 --- POV: Onu’s Phone | W  ---
-[wallpaper: pict/w_rc.jpg]
+[wallpaper] pict/w_rc.jpg
 [wa] Alsya Angel | pict/a_wa.jpg |
 W: [replied to A's status: pict/a6.jpg | yeaay main lagi sama angel imup imuppp >.<] Makasih udah main yaa kak Alsya. Hati-hati pulangnyaa
 W: Kabarin kalo udah sampe rumah ya Sya
