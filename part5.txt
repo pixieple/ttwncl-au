@@ -345,6 +345,31 @@ e: gila lu
 C: sumpah gue stres banget
 e: yaudah iya lu sini dulu dah
 e: gua serlok ya
+[wa] ganang | pict/g_wa |
+g: chan
+g: mas
+g: kak
+g: bang
+g: bro
+g: nitip jajan plis
+g: roti kek atau apa gue laper banget udah gada makanan dirumah jier
+g: [call: suara tak terjawab]
+C: Halo, ini saya Joshua teman kantornya Chandra. Chandra sedang tidak sadarkan diri jadi ini mau saya antar pulang ke rumahnya.
+C: Tapi saya tidak tahu alamat rumahnya Chandra, boleh tolong bantu kirimkan saya alamat atau lokasi rumahnya Chandra?
+g: loh kok bisa tidak sadarkan diri?
+g: mas saya kenapa ya pak?
+C: Maaf, maksud saya dia sedang mabuk 🙏🏻
+g: ya ampun maafin kakak saya ya pak, sudah merepotkan orang banyak 🙏🏻
+g: apakah kakak saya bikin onar?
+C: Tidak. Hanya melantur saja.
+C: [replied to g's chat: nitip jajan plis] Mau saya belikan apa?
+g: eh nggak usah pak, saya minta tolong titip kakak saya saja 😭🙏🏻
+C: Baik, kalau begitu saya mau antar Chandra sekarang bersama teman saya yang lain.
+g: hati" pak, terima kasih banyak sebelumnya 🙏🏻
 [twitter]
 tweet by E: ini lah akibat terlalu banyak main dibawah gemerlap lampu diskotik @chxxsa
 gambar: pict/twt_18
+tweet by g: malu" in ah sampe dianter pulang ATASAN gara" mabok
+qrt: E | ini lah akibat terlalu banyak main dibawah gemerlap lampu diskotik @chxxsa | pict/twt_18
+K: Hah chandra kenapeee
+A: chandra minum2 lagi?
