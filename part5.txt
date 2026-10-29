@@ -3,7 +3,7 @@
 [status] You | pict/a_wa.jpg | pict/status-2.jpg | 09.29 AM
 kerja kerja kerjaaa
 [wa] Onu temen chandra | pict/w_wa.jpg |
-W: [replied to A' status: pict/status-1.jpg | kerja kerja kerjaaa] Lagi di mana Sya?
+W: [replied to A's status: pict/status-1.jpg | kerja kerja kerjaaa] Lagi di mana Sya?
 W: Wfc ya?
 A: iyaa nu
 A: ini lagi di couvee tamsis
@@ -68,11 +68,11 @@ A: gausah cakep2 org mau ketemu gue doang chan chan
 C: gue abis mandi kocak
 C: mau gue samperin dalam keadaan telanjang?
 A: OH
-A: [sent a sticker: pict/15]
+A: [sent a sticker: pict/15.jpg]
 A: yaudah buru sini
 A: bawa motor yak
 C: ya iyalah bawa motor
-C: ogah banget gue jalan dari rumahlo sambil bawa mangga satu truk
+C: ogah banget gue jalan dari rumah lo sambil bawa mangga satu truk
 A: SIAPA JUGA YG MAU KASIH LO MANGGA SATU TRUK
 C: itu namanya manifestasi sa
 A: hah
@@ -175,7 +175,7 @@ G: hehehe
 tweet by a: oiya hari ini katanya onu mau nemenin gue wfc,,,,,
 a: jadi ga ya???
 a [replied to a]: gue chat deh
-[wa] Onu temen chandra | pict/w_wa |
+[wa] Onu temen chandra | pict/w_wa.jpg |
 A: selamat pagi nuu
 A: nanti jadi kahh?
 W: Morning Sya
@@ -209,10 +209,10 @@ matcha every1
 Onu memainkan ponselnya sambil sesekali melirik Alysa yang sedang fokus menatap layar laptopnya. Ia ingin mengajak Alysa mengobrol namun takut hal itu akan mengganggu konsentrasi Alysa, sehingga ia mengurungkan niatnya. Namun, Alysa sadar bahwa Onu kerap kali mencuri-curi pandang padanya.
 “Nu, maaf, kamu bosen ya?” tanya Alysa
 “Enggak kok, aku mau ngajak ngobrol kamu sungkan takut gangguin.”
-“Gapapa loh sambil ngobrol aja.”
+“Gapapa loh, sambil ngobrol aja.”
 “Nanti kalo kerjaanmu ada yang salah gimana?”
 “Aman nu. Yaudah nih aku duluan yang nanya,” Alysa memberi jeda dalam ucapannya, “Kamu berapa bersaudara?”
-“Aku anak tunggal, Sa.”
+“Aku anak tunggal, Sya.”
 “Wah, sama aku juga” intonasi Alysa terdengar lebih bersemangat, membuat Onu semakin nyaman untuk mengobrol lebih banyak dan saling bertukar cerita. Tak sadar, minuman mereka telah habis tak bersisa dan sudah memesan gelas kedua.
 “Kamu udah pernah ke sini?” tanya Onu.
 “Belum. Jauh soalnya. Apalagi kalo sendirian, males hehe.”
@@ -222,7 +222,7 @@ Onu memainkan ponselnya sambil sesekali melirik Alysa yang sedang fokus menatap 
 Alysa menepuk jidatnya pelan, “Oiya hehe.”
 “By the way, nanti mau jalan-jalan di Wisdom Park UGM nggak?” tanya Onu
 “Mau! Tapi cari makan dulu yukk, udah jam segini nih”
-“Oiya, kamu mau makan apa? Kalo aku di deket sini ada Pasta langganan keluarga aku. Kamu mau?”
+“Oiya, kamu mau makan apa? Di deket sini ada Pasta langganan keluarga aku. Kamu mau?”
 “Mau deh, yuk. Aku beresin barangku dulu.”
 “Sini aku bawain aja laptopmu, biar nggak berat.”
 Alysa sedikit tersipu dengan perhatian kecil yang diberikan Onu barusan. Ia berjalan mengikuti Onu dari belakang menuju parkiran sambil menahan senyumnya.
@@ -265,9 +265,9 @@ gambar: pict/twt_17.jpg
 w: Mending kamu aja yang aku makan Sya
 tweet by w: Kayanya gue mulai naksir nih
 --- POV: Chandra’s Phone | C  ---
-[wallpaper] pict/c_rc,jpg
+[wallpaper] pict/c_rc.jpg
 [wa] alysaa | pict/a_wa.jpg |
-C: replied to A's status: pict/status-3.jpg | matcha every1] sama siapa sa?
+C: [replied to A's status: pict/status-3.jpg | matcha every1] sama siapa sa?
 A: tebak
 C: orang gue nanya malah disuruh nebak
 C: gue cium lo
@@ -296,11 +296,11 @@ A: dia nawarin mau nemenin gue wfc kemaren
 A: terus tadi pagi gue wfc ditemenin dia
 A: abis itu lanjut ke wisdom park buat jalan2 hehehe
 C: [replied to A's chat: dia nawarin mau nemenin gue wfc kemaren] kenapa ga minta temenin gue?
-A: gak enak ah lo capek kan skgr lembur mulu
+A: gak enak ah lo capek kan skrg lembur mulu
 A: jadi hari libur lo buat istirahat ajaa
 C: gapapa kali sa, kek sama siapa aja lo
 A: justru karna lo, gue berusaha ngertiin lo tauu!! 🥺🥺
-C: ya ya makasih, besok lagi tawarin aja gue
+C: ya ya makasih, besok lagi tawarin aja ke gue
 C: [replied to A's chat: abis itu lanjut ke wisdom park buat jalan2 hehehe] cie
 C: udah jadi gebetan nih?
 A: belom tau wkwk
@@ -326,7 +326,7 @@ c [replied to c]: kenapa sih susah banget buat ngomong kalo gue suka sama lo sa
 c [replied to c]: benci banget gue
 tweet by c: lo beneran cuma anggep gue sebagai temen ya sa?
 c: kapan lo sayang gue sebagai cowok?
-[wa] jehian sc | pict/e_wa.jpg |
+[wa] bang jehian sc | pict/e_wa.jpg |
 e: ayo join nongki sob
 e: sama bang josh sini
 C: duh bang
@@ -345,7 +345,7 @@ e: gila lu
 C: sumpah gue stres banget
 e: yaudah iya lu sini dulu dah
 e: gua serlok ya
-[wa] ganang | pict/g_wa |
+[wa] ganang | pict/g_wa.jpg |
 g: chan
 g: mas
 g: kak
@@ -368,8 +368,13 @@ C: Baik, kalau begitu saya mau antar Chandra sekarang bersama teman saya yang la
 g: hati" pak, terima kasih banyak sebelumnya 🙏🏻
 [twitter]
 tweet by E: ini lah akibat terlalu banyak main dibawah gemerlap lampu diskotik @chxxsa
-gambar: pict/twt_18
+gambar: pict/twt_18.jpg
+R: waduh sp nih sp berkelakuan tidak baik @kata_rinaa
+T [replied to R]: Wkwkwkwk pasti diajarin kak Jehian nih
+E [replied to T]: mana ada, gua pria soleh
+W: Cewek mana yang nyakitin lo Chan wkwk
+E [replied to W]: wkwkwk
 tweet by g: malu" in ah sampe dianter pulang ATASAN gara" mabok
-qrt: E | ini lah akibat terlalu banyak main dibawah gemerlap lampu diskotik @chxxsa | pict/twt_18
+qrt: E | ini lah akibat terlalu banyak main dibawah gemerlap lampu diskotik @chxxsa | pict/twt_18.jpg
 K: Hah chandra kenapeee
 A: chandra minum2 lagi?
