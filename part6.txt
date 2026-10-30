@@ -243,7 +243,7 @@ f: gue ga nanya ya anjing
 G: woss kalem bos
 G: sensi amat
 G: panas ya?
-G: [sent a stciker: pict/13.jpg]
+G: [sent a sticker: pict/13.jpg]
 f: jancok
 G: kok cemburu sih, emang lo siapanya
 f: gue tunggu lo balik
@@ -357,7 +357,7 @@ W: Aku mau deketin kamu boleh nggak?
 W: Lebih dari sekedar temen
 W: Kalo boleh
 [twitter]
-tweet by a: 🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪🫪??????????????????????
+tweet by a: 😦😦😦😦😦😦😦😦😦😦😦😦😦??????????????????????
 tweet by a: ini gue ga salah baca kan? ga salah ngartiin kan?
 a: SIAL SAKING PANIKNYA SAMPE KEPENCET JADI KE READ DOANG
 a [replied to a]: anjenggggggg tolongin gue siapapun
