@@ -357,7 +357,7 @@ g: [call: suara tak terjawab]
 C: Halo, ini saya Joshua teman kantornya Chandra. Chandra sedang tidak sadarkan diri jadi ini mau saya antar pulang ke rumahnya.
 C: Tapi saya tidak tahu alamat rumahnya Chandra, boleh tolong bantu kirimkan saya alamat atau lokasi rumahnya Chandra?
 g: loh kok bisa tidak sadarkan diri?
-g: mas saya kenapa ya pak?
+g: kakak saya kenapa ya pak?
 C: Maaf, maksud saya dia sedang mabuk 🙏🏻
 g: ya ampun maafin kakak saya ya pak, sudah merepotkan orang banyak 🙏🏻
 g: apakah kakak saya bikin onar?
