@@ -22,7 +22,7 @@ k: Yaudah iya
 k: Lu ada acara apa sa?
 A: gue mau pergi sama chandraaa
 g: WHAT
-g: [delete his message: LO MAU CONFESS MAS?]
+g: [delete his message: LO MAU CONFESS CHAN?]
 k: 😦
 A: hah
 A: chandra mau nembak siapa gan?
@@ -34,7 +34,7 @@ c: bisa ga sih ni anak sehari aja kaga bikin emosi
 [wa] ganang | pict/g_wa.jpg |
 C: [call: suara tak terjawab]
 C: angkat
-G: MAS AMPUN MAS SUMPAH REFLEK
+G: CHAN AMPUN CHAN SUMPAH REFLEK
 G: keceplosan
 G: langsung gue delete kok chatnya
 G: walopun si alysa udah keburu baca sih...
@@ -45,11 +45,11 @@ G: sumpah minta maaf banget
 C: percuma juga lo tarik chatnya
 G: bisa"nya dia kaga paham wkwk
 C: lucu?
-G: enggak mas
+G: enggak
 G: maap
 G: ampun
 C: baju endorsan lo gue buang
-G: MAS
+G: CHAN
 G: SUMPAH JANGAN
 G: 😭😭😭🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻
 C: banyak tingkah lo
