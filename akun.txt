@@ -28,7 +28,7 @@ j | pak josh sc |
 k | kiki |
 n | netizen | netizen | @netizen |
 r | rose sc |
-s | samuel | Sam | @masamuel |
+s | - | samsam | @masamuel |
 t | katarina sc |
 v | Bos Vernando |
 w | onu sc | - | @won_now | pict/w.jpg |
