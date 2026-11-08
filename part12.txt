@@ -79,7 +79,7 @@ A: [forwarded] wlewlewlee 🤪🤪🤪
 [twitter]
 tweet by c: oh lagi ngedate. pantesan ga ngabarin
 c: alah chan gini doang lo cemburu, giliran dia masih jomblo dulu lo diemin (sadar diri)
-c: [replied to c]: jancok
+c [replied to c]: jancok
 [twitter]
 tweet by W: Menu lunch hari ini my istri bareng sama my calon bini gue @matchaas
 gambar: pict/twt_29.jpg
@@ -210,15 +210,16 @@ W: Oke sayang
 --- 🍀🍀🍀 ---
 [twitter]
 tweet by A: mengantar kanjeng putri kirana berangkat merantau untuk yg terakhir kalinyaaa hihihi see u minggu depan yh cingta 🥺🥺🥺❤️ @sourseelie
+gambar: pict/33.jpg
 K: Anjir muka gue saaa
 g: kaya gembel
 K [replied to g]: Sialan 🖕🏻🖕🏻
 C: besok kita jemput pake truk aja ga sih
 K [replied to C]: Sewain dong bos @imatiger_g
-g [replied to K]: sam @sxmxxc
-S [replied to g]: Aman
-K [replied to S]: Sam jangan dengerin omongan orang gila plis
-S [replied to K]: Gapapa, aku juga mau ikut bantu kamu pindahan nanti
+g [replied to K]: sam @masamuel
+s [replied to g]: Aman
+K [replied to s]: Sam jangan dengerin omongan orang gila plis
+s [replied to K]: Gapapa, aku juga mau ikut bantu kamu pindahan nanti
 [wa] rumpi no secret muach🤫💅🏻 | pict/rumpi.jpg | Chandra 911, Ganang Artis Komplek, Kirana Ratu Emot, You
 K: DAH GILA LU @Ganang Artis Komplek
 K: NGAPAIN LU NGETAG SAMUEL ANJIR 🖕🏻🖕🏻🖕🏻🖕🏻
@@ -274,15 +275,15 @@ a: mana langsung di read lagi bangkee 😭😭😭
 tweet by a: hehehhee
 a: jadi gini ya rasanya pacaran
 a [replied to a]: saking lamanya ga pacaran sampe lupa gimana rasanya 😭
-a: [replied to a]: jujur gue juga udh ga sabar buat ketemu dia besok hehehhe 🥺🥺🥺🥺
+a [replied to a]: jujur gue juga udh ga sabar buat ketemu dia besok hehehhe 🥺🥺🥺🥺
 --- 🍀🍀🍀 ---
 [wa] Nonuu💞 | pict/w_wa.jpg |
 W: Morning sayang
 W: Jangan lupa nanti kabarin jadinya kita bisa makan bareng atau nggak ya
 W: Kantornya sebelah mana sih?
 A: pagiii nuu
-A: [replied to s's chat: Jangan lupa nanti kabarin jadinya kita bisa makan bareng atau nggak ya] okii nuuu
-A: [replied to s's chat: Kantornya sebelah mana sih?] kantornya di jl kusumanegara nuu, deketnya pamela 1
+A: [replied to f's chat: Jangan lupa nanti kabarin jadinya kita bisa makan bareng atau nggak ya] okii nuuu
+A: [replied to f's chat: Kantornya sebelah mana sih?] kantornya di jl kusumanegara nuu, deketnya pamela 1
 W: Oh iya bener rawan macet wkwk
 W: Tapi bisa aku usahain
 W: Nanti cari makan deket sana aja, aku jemput
@@ -339,8 +340,9 @@ A: km bolak balik lohh nnti
 W: Gapapa lah
 W: Semangat kerjanya ya cantikku
 A: aaa makasih 🥺🥺
-A: [replied to s's chat: Semangat kerjanya ya cantikku] km jugaa ya nuuu
+A: [replied to f's chat: Semangat kerjanya ya cantikku] km jugaa ya nuuu
 --- 🍀🍀🍀 ---
+[twitter]
 tweet by a: WEH INI KENAPA YA NOTIF TWT GUE JEBOL ANJAY????
 a: o ganang anjeng
 tweet by G: all black, too 🖤
