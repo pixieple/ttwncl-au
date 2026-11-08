@@ -9,6 +9,7 @@ W: Kamu jadinya udah makan belum?
 W: Ini aku baru mau makan sama seruanganku
 A: iya nuu gpp kokk
 A: met makan ya nuu
+A: [replied to W's chat: Kamu jadinya udah makan belum?] udh kok td sung makan sampe rumah
 W: Btw kamu tadi chat Chandra ya?
 A: iyaa soalnya km ga bales chatku
 A: jd buat mastiin keadaanmu aja sii
@@ -31,7 +32,7 @@ W: [replied to A's chat: mau liat ap emgnya?] Liat kamu khawatirin aku wkwk
 W: Kenapa dinamain 911?
 W: Kamu punya maag? Kok kamu ga bilang sih Syaa. Kamu tadi sakit nggak?
 A: [replied to D's chat: Liat kamu khawatirin aku wkwk] [sent a sticker: pict/9.jpg]
-A: [replied top D's chat: Kenapa dinamain 911?] soalnya chandra penyelamatku
+A: [replied to D's chat: Kenapa dinamain 911?] soalnya chandra penyelamatku
 A: selalu ada buat aku
 A: dari kecil sampe sekarang hehehe
 A: pokoknya tiap butuh maupun ga butuh dia, dia selalu ada buat aku huhuhu
@@ -113,19 +114,23 @@ tweet by G: selamat ulang tahun mamahku sayang, makasih udah ngelahirin adek dan
 gambar: pict/twt_25.jpg
 suka: 3,6k
 repost: 816
-G: #bts decor cake
-gambar: pict/twt_26.jpg
-G [replied to G]: #bts masak sama @chxxsa buat party hari ini!
-gambar: pict/twt_27.jpg
 G [replied to G]: btw makasih doa baiknya ya temen"! love you semuanyaa ❤️
-N: yeay selamat ulang tahun mamahnya kak ganangg
-N: hbd mama mertuaa 🥰
+n: yeay selamat ulang tahun mamahnya kak ganangg
+n: hbd mama mertuaa 🥰
+tweet by G: #bts decor cake
+gambar: pict/twt_26.jpg
+suka: 2,7k
+repost: 432
+tweet by G: #bts masak sama @chxxsa buat party hari ini!
+gambar: pict/twt_27.jpg
+suka: 1,5k
+repost: 374
 tweet by K: Seorang ganang masak?
 qrt: G | #bts masak sama @chxxsa buat party hari ini! | pict/twt_27.jpg
 A: dokumentasi doang ah, yg masak ya papah sama chandra doang
 C [replied to A]: terima kasih sudah sepikap
-G [replied to C]: kok lo gak belain gue sih???????
-G: gak usah sirik lo haters!! pergi lo jauh"
+g [replied to C]: kok lo gak belain gue sih???????
+g: gak usah sirik lo haters!! pergi lo jauh"
 [status] Ganang Artis Komplek | pict/g_wa.jpg | pict/status-9.jpg
 ternyata ada ya orang yang selalu kalah main uno? 🤪 kaga ada bosen"nya lo ki wkwk
 [wa] rumpi no secret muach🤫💅🏻 | pict/rumpi.jpg | Chandra 911, Ganang Artis Komplek, Kirana Ratu Emot, You
@@ -163,7 +168,7 @@ W: Itu Papa siapa?
 W: Katanya kamu ada acara keluarga?
 A: papanya chandraaa wkkw
 A: aku manggil ortunya chandra papah mamah
-A: [replied to W's chat: Katanya kamu ada acara keluarga?] iya ini acara keluarga yg aku maksud. mamahnya chandra lagi ulang tahun, terus aku sekeluarga diundang
+A: [replied to D's chat: Katanya kamu ada acara keluarga?] iya ini acara keluarga yg aku maksud. mamahnya chandra lagi ulang tahun, terus aku sekeluarga diundang
 A: ortuku juga temenan deket sama ortunya chandra
 W: Oh gitu
 W: Terus kamu manggil ortumu apa? Nggak takut salah panggil tuh?
@@ -363,6 +368,6 @@ C: ok
 k: Kata ibun kenapa mainnya ga di bawah aja
 g: enak disini bun adem ada ac hehe
 g: udah pw
-C: [sent picture: pict/37.jpg] udah ditimpa pudding dia, makanya ogah turun
+C: [sent a picture: pict/37.jpg] udah ditimpa pudding dia, makanya ogah turun
 k: Yaelah
 k: Yodah otw
