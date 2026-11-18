@@ -100,19 +100,19 @@ k: Dih baru jalan dua kali doang jir
 k: Gue malu mau koar2 takutnya gue kegeeran
 k: 😭
 k: Malu juga ntar lu ceng2in mulu
-a: [replied to g's chat: lo udah pernah jalan sama samuel kan?] WHAAATTTT
-a: cieeee akhirnya dapet cowo yg mw effort xixixi
-a: yg kemaren udh kaya beruk gt, se kota tp maunya lo samperin duluan
-g: [replied to a's chat: cieeee akhirnya dapet cowo yg mw effort xixixi] lo juga gue liat2 jalan mulu ama si temennya chandra
+A: [replied to g's chat: lo udah pernah jalan sama samuel kan?] WHAAATTTT
+A: cieeee akhirnya dapet cowo yg mw effort xixixi
+A: yg kemaren udh kaya beruk gt, se kota tp maunya lo samperin duluan
+g: [replied to A's chat: cieeee akhirnya dapet cowo yg mw effort xixixi] lo juga gue liat2 jalan mulu ama si temennya chandra
 g: udah jadian lo?
-a: [replied to g's chat: udah jadian lo?] udah
+A: [replied to g's chat: udah jadian lo?] udah
 g: HAH
 k: HAH
 k: 😦
 C: hah
-C: [replied to a's chat: udah] lo udah jadian sama onu sa?
-a: knp kalian pada kaget dah 😭😭😭
-a: emg knp klo gue udh jadian 😭😭😭
+C: [replied to A's chat: udah] lo udah jadian sama onu sa?
+A: knp kalian pada kaget dah 😭😭😭
+A: emg knp klo gue udh jadian 😭😭😭
 [twitter]
 tweet by c: hah
 tweet by c: rasanya kek disamber bledek
@@ -121,25 +121,25 @@ tweet by c: anjing gue baru liat twitnya onu
 tweet by c: jancok
 c: lagi-lagi gue keduluan orang
 [wa] rumpi no secret muach🤫💅🏻 | pict/rumpi.jpg | alysaa, ganang, kiki, You
-a: knp kalian pada kaget dah 😭😭😭
-a: emg knp klo gue udh jadian 😭😭😭
+A: knp kalian pada kaget dah 😭😭😭
+A: emg knp klo gue udh jadian 😭😭😭
 g: DEMI APA LO UDAH JADIAN SA?
 g: KAPAN ANJIR
 g: diem" aja lo sialan
-a: emm baru kemaren sore btw...
+A: emm baru kemaren sore btw...
 g: OH
 g: kirain dah lama hehe
-C: [replied to a's chat: emm baru kemaren sore btw...] wow selamat ya sa
+C: [replied to A's chat: emm baru kemaren sore btw...] wow selamat ya sa
 C: cepet banget btw wkwk
-a: YAKAN
-a: GASPOL BENER TEMEN LO CHAN
-a: katanya dia takut keburu gue diembat orang
-a: emg mau diembat siapa dah wkwk
-C: [replied to a's chat: emg mau diembat siapa dah wkwk] gue
+A: YAKAN
+A: GASPOL BENER TEMEN LO CHAN
+A: katanya dia takut keburu gue diembat orang
+A: emg mau diembat siapa dah wkwk
+C: [replied to A's chat: emg mau diembat siapa dah wkwk] gue
 g: HAH
 k: HAH
 k: 😦
-a: hah
+A: hah
 [twitter]
 tweet by c: gue lah yang ngembat
 c: tapi boong soalnya gue cupu
@@ -162,15 +162,15 @@ g: HALAH
 g: berlindung dibalik kata bercanda
 k: 😌
 g: gue juga mau ngembat lo sa
-a: [replied to g's chat: gue juga mau ngembat lo sa] dih ogah
+A: [replied to g's chat: gue juga mau ngembat lo sa] dih ogah
 g: KENAPA OGAH SAMA GUE
 g: [replied to D's chat: gue] GILIRAN CHANDRA YANG NGOMONG LO GAK RESPON APA"????
-a: chandra kan ngejoks doang
-a: ya kan chan
+A: chandra kan ngejoks doang
+A: ya kan chan
 C: iya
-a: nah
-a: kalo lo mah mau ngejoks atau serius gue tetep ogah sama lo
-a: [sent a sticker: pict/21.jpg]
+A: nah
+A: kalo lo mah mau ngejoks atau serius gue tetep ogah sama lo
+A: [sent a sticker: pict/21.jpg]
 g: cih kompak bener dah
 g: kenapa ga jadian aja lo berdua
 g: ya ga ki
@@ -203,11 +203,11 @@ C: temen satu perumahan juga kita berempat doang
 k: Masa sampe segitunya sih chan
 C: ya antisipasi aja
 C: gue cuma mikirin kemungkinan terburuknya. belom pasti terjadi tapi bukan berarti gamungkin terjadi juga
-k: Setelah dipiki2 lu ada benernya sih chan
+k: Setelah dipikir2 lu ada benernya sih chan
 k: Yaudah deh, gue tau lu sekarang lagi potek kan
 k: Walopun udah sering wkkw
 k: Gue ga nyangka mereka jadian secepet ini jir
-k: Padahal gue udah ngarep banget lo bisa nyelip diantara mereka
+k: Padahal gue udah ngarep banget lu bisa nyelip diantara mereka
 C: gaada kesempatan
 C: apa emang alysa bukan buat gue ya?
 C: dari dulu
@@ -280,22 +280,12 @@ C: Semoga langgeng bro
 C: gue titip temen gue ya
 C: awas aja kalo lo sakitin
 w: Ga bakal gue apa-apain wkwk
-w: Btw, berhubung lo udah tau tentang gue sama Alysa gue mau bilang sesuatu
-w: Walaupun lo itu temen deketnya dia, gue minta lo sama adek lo sekarang harus lebih jaga batasan lagi ya sama dia
-w: Dia temen lo, tapi dia juga cewek gue
-w: Gue tetep gasuka liat Alysa terlalu deket sama cowok, mau temen deket temen lama atau apa
-w: Paham kan maksud gue wkwk 
-C: oh ya ya aman nu
-C: lagian kita juga ga yang gimana-gimana
-C: tenang aja
-w: Nice
 w: Sekali lagi thanks ya bro
 w: Gue janji bakal jagain Alysa
 w: Dia aman sama gue
 C: sip
 [twitter]
-tweet by c: kenapa gue tiba-tiba emosi yak
-tweet by c: jancok
+tweet by c: alah jancok
 [narasi]
 Chandra membanting pintu kamarnya dengan kasar. Ia terduduk lemas di atas kasurnya, membuang ponselnya ke sembarang arah. Tak lama, Ganang menyusulnya ke kamar.
 “Chan,” panggil Ganang dari ambang pintu.
@@ -329,12 +319,13 @@ n: Biasanya aja koar2 dihajar sama masnya mulu wkwk
 n: tumben akur kak wkwk disogok pake apa tuh?
 tweet by K: OTAK LU GESER YA?
 qrt: C | i locve ypoui adekky ❤️ |
+C: cer3qwt
 tweet by c: alysa gie sayang bangey sama lo
 tweet by c: smeoga lo kodoh teroahkir gue dan gye iodoh trakhie lo
 --- POV: Alysa’s Phone | A  ---
 [twitter]
 tweet by a: anjing kalo lo yang ngembat mah gue juga ketar ketir chan
-tweet bya a:... udh ah ngomong apa sih lo sa org chandra cuma bercanda
+tweet by a:... udh ah ngomong apa sih lo sa org chandra cuma bercanda
 a: ngomong noh ama tembok ueue
 --- 🍀🍀🍀 ---
 [wa] Ayah | pict/b_wa.jpg
