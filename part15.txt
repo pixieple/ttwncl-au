@@ -128,7 +128,7 @@ A: gabisa ngetoll, kan yg bawa motor ganti2an
 W: Ngetol aja lama apalagi nggak lewat tol coba
 W: Temen kamu ngerepotin banget sih
 W: Udah bener aku dari awal bilang kamu gausah ikut
-A: [replied to W's chat: Temen kamu ngerepotin banget sih] nggak, kirana ga ngerepotin
+A: [replied to f's chat: Temen kamu ngerepotin banget sih] nggak, kirana ga ngerepotin
 A: aku sendiri yg mau ikut jemput dan bantu pindahan
 A: kamu kenapa ngomong gitu?
 A: kamu kenapa sih dari tadi?
@@ -146,7 +146,7 @@ Alysa menghubungi Kirana dan langsung diangkat, "Halo, lo kamar berapa, Kir? Lan
 [twitter]
 tweet by a: bete, semua orang nyebelin ah
 [wa] Nonuu💞 | pict/w_wa.jpg |
-A: [replied to W's chat: Temen kamu ngerepotin banget sih] nggak, kirana ga ngerepotin
+A: [replied to f's chat: Temen kamu ngerepotin banget sih] nggak, kirana ga ngerepotin
 A: aku sendiri yg mau ikut jemput dan bantu pindahan
 A: kamu kenapa ngomong gitu?
 A: kamu kenapa sih dari tadi?
@@ -165,18 +165,18 @@ a: benci bgt gue klo udh bete gara2 kurang tidur pasti menjalar kemana2, sialan 
 [wa] rumpi no secret muach🤫💅🏻 | pict/rumpi.jpg | alysaa, ganang, kiki, You
 C: di atas masih ada barang yang belom masuk mobil lagi ga
 k: Udah semua keknya
-k: Gue makan di mobil aja deh
+k: Gue makan di mobil aja deh 😥😥
 k: Motornya mau siapa dulu nih yang bawa?
-k: Ntar kalo udah masuk ringroad biar gantian gue bawa sendiri aja
+k: Ntar kalo udah masuk ringroad biar gantian gue bawa sendiri aja 🏍️🏍️🏍️
 C: gue dulu aja
 k: 👌🏻
 k: Gue nyerahin kunci kosan dulu ya, kalian tunggu mobil aja
 [wa] kiki| pict/k_wa.jpg |
 C: titip alysa
-k: Ha?
+k: 🤔🤔🤔❓❓❓
 C: suruh dia tidur
 C: sama suruh pamit dulu sama pacarnya kalo mau tidur
-k: Kenapa emang?
+k: Kenapa emang? 🤔🤔
 C: udah lakuin aja
 C: ntar gue cerita
 k: Ok deh, tiati yak
@@ -231,9 +231,10 @@ A: parah bgt ngomongin orang di belakangnya lgsung
 A: memang calon penghuni neraka bgt lo gan
 G: eh anjing
 G: gue selalu baik sama lo jir kok gini sih balesan lo
-C: baik apanya, lo dulu suka jorokin dia sampe jatoh jir
+C: baik apanya, lo dulu suka jorokin dia sampe jatoh
 G: BERCANDA
 G: emang alysa dendam sama gue? atau lo yang dendam ama gue ha?
+A: [replied to C's chat: baik apanya, lo dulu suka jorokin dia sampe jatoh] trims sdh sepikap
 A: [replied to G's chat: gue selalu baik sama lo jir kok gini sih balesan lo] emg hal baik apa yg udh lo lakuin buat gue?
 G: nemenin lo wfc
 G: bantu ngabisin mangga lo
@@ -248,10 +249,10 @@ A: nu aku udah masuk ringroad. bentar lagi sampe ya
 W: Kamu nanti langsung turun rumah apa gimana?
 A: ke rumah Kirana dulu mungkin, bantuin nurunin barangnya sekalian
 W: Aku jemput ya, nanti kamu share lok rumahnya Kirana
-A: eh beneran?
-W: Iyaa
+A: gausah nu, ntar km kerumahku aja
+W: Gaboleh nolak
 W: Nanti share ya, jangan lupa
-A: iyaa nnti aku sharelok
+A: yaudah nnti aku sharelok
 [narasi]
 Sesampainya di rumah Kirana, Papi dan Maminya menyambut mereka semua dan menyuguhkan beberapa camilan dan minuman. Namun, mereka memutuskan untuk segera mengeluarkan barang-barang Kirana dari mobil Samuel terlebih dahulu sebelum malam semakin larut.
 Samuel tengah memajukan mobilnya sedikit lebih dekat dengan pintu masuk untuk memudahkan proses pemindahan barangnya. Tiba-tiba sebuah mobil hitam berhenti tak jauh dari mereka. Alysa mengenali mobil itu dan bergegas menghampirinya sebentar lalu kembali lagi dengan sang pemilik mobil yang ternyata adalah Onu.
@@ -401,4 +402,4 @@ W: Yaudah mandinya jangan lama-lama ya, semoga nggak sakit kamu mandi jam segini
 W: Abis itu langsung tidur ya sayang
 A: iyaah sayangg ini mandi kilaat abistu boboo
 A: [sent a sticker: pict/27.jpg]
-W: 
+W: Wkwkwk
