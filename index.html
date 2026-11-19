@@ -234,6 +234,12 @@ const mkEdit=(hit,nt,old)=>{
 const bubbles=(chat,CHAT,me,grp)=>{let last='',tm='';const rows=[];
   CHAT.split('\n').forEach(l=>{
     if(l[0]==='@'){tm=l.slice(1).trim();return}
+    const nmOf=(w,o)=>w===me?(o?'kamu':'Kamu'):/^[A-Za-z]$/.test(w)?pk(w).n:w;
+    let sy=null,x2;
+    if((x2=l.match(/^\[(?:left|keluar)\s*:\s*(.+?)\]\s*$/i)))sy=nmOf(x2[1].trim())+' keluar';
+    else if((x2=l.match(/^\[(?:tambah|add)\s*:\s*(.+?)\s*>\s*(.+?)\]\s*$/i)))sy=nmOf(x2[1].trim())+' menambahkan '+nmOf(x2[2].trim(),1);
+    else if((x2=l.match(/^\[(?:gabung|join)\s*:\s*(.+?)\]\s*$/i)))sy=nmOf(x2[1].trim())+' telah bergabung melalui tautan grup';
+    if(sy){chat.append($('div','chip',sy));last='';return}
     const pm=l.match(/^---\s*(.+?)\s*---\s*$/);
     if(pm){chat.append($('div','chip',pm[1]));last='';return}
     const m=l.match(/^([A-Za-z]): ?(.*)$/);if(!m)return;
