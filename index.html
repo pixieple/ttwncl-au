@@ -242,7 +242,8 @@ const bubbles=(chat,CHAT,me,grp)=>{let last='',tm='';const rows=[];
     if(sy){chat.append($('div','chip',sy));last='';return}
     const pm=l.match(/^---\s*(.+?)\s*---\s*$/);
     if(pm){chat.append($('div','chip',pm[1]));last='';return}
-    const m=l.match(/^([A-Za-z]): ?(.*)$/);if(!m)return;
+    const m=l.match(/^([A-Za-z]): ?(.*)$/);
+    if(!m){const lr=rows[rows.length-1];if(lr&&l.trim()){lr.b.insertBefore(document.createTextNode('\n'+l.trim()),lr.b.querySelector('.tm'));lr.t+='\n'+l.trim()}return}
     const k=m[1];let t=m[2].trim(),q=null,x;
     const dl=t.match(/^\[delete[^:]*: ?(.*)\]$/);
     if(dl){const hit=rows.filter(o=>o.k===k&&o.t===dl[1].trim()).pop();if(hit){const old=[...hit.b.childNodes].filter(notNm);old.forEach(n=>n.remove());mkDel(hit.b,old);return}}
