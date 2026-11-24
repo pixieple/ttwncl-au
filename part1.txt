@@ -1,14 +1,3 @@
-# CARA MENULIS PART. Satu file = satu part, ditulis urut seperti naskah.
-# --- POV: nama HP | KODE ---   penanda pindah POV. KODE = pemilik HP (bubble di kanan).
-# [wa] nama room | foto | anggota (opsional), lalu baris chat "KODE: pesan". Room terbuka saat diketuk.
-#   Penanda chat: [replied to K's chat: kutipan] pesan | [sent a sticker] | [sent a picture: foto-1.jpg] keterangan | [delete his message: isi lama] | @11.55 PM (jam)
-# [twitter], lalu baris "tweet by KODE: isi" dan balasannya "KODE: isi" atau "KODE [replied to KODE]: isi".
-#   Info tweet opsional tepat di bawahnya: waktu: 5 menit | suka: 2 | repost: 0 | tayang: 158 | gambar: foto-tweet.jpg
-# [narasi], lalu tulis teksnya. Tiap baris jadi satu paragraf, langsung terlihat tanpa diketuk.
-# --- teks apa saja ---   jadi penanda pemisah biasa.
-# WALLPAPER ROOM CHAT: tambahkan nama file di akhir penanda POV, contoh:  --- POV: Alysa’s Phone | A | foto/bg-alysa.jpg ---
-#   atau tulis baris sendiri  [wallpaper] foto/bg-lain.jpg  (berlaku untuk semua room di bawahnya sampai diganti lagi).
-#   Kalau tidak diisi, dipakai wallpaper umum dari daftar.txt. Baris "[wallpaper]" kosong = kembali ke wallpaper umum.
 --- POV: Alysa’s Phone | A  ---
 [wallpaper] pict/a_rc.jpg
 [wa] rumpi no secret muach🤫💅🏻 | pict/rumpi.jpg | Chandra 911, Ganang Artis Komplek, Kirana Ratu Emot, You
@@ -173,7 +162,6 @@ G: hmm
 G: oh gue tau kafe yg enak dulu pernah kesana sama chandra
 A: ok
 A: otw
---- 🍀🍀🍀 ---
 --- POV: Onu's Phone | W  ---
 [wallpaper] pict/w_rc.jpg
 [wa] Internal Seventh Corps. | | Chandra Eka Nugroho Editor, Jehian Saputra Marketing, Joshua Aditya BM, Katarina Putri HRD, Rosesiana IT, You
@@ -194,13 +182,12 @@ H: ga penting banget sumpah
 W: Sumpah mirip. Hampir gue samperin tadi
 H: lo demen ya
 W: Gila lo
---- 🍀🍀🍀 ---
 --- POV: Chandra's Phone | C  ---
 [wallpaper] pict/c_rc.jpg
 [status] alysaa | pict/a_wa.jpg | pict/status-1.jpg | 09.25 AM
 wfc after a long time
 [wa] alysaa | pict/a_wa.jpg |
-C: [replied to A's status: pict/status-1.jpg | wfc after a long time] sama siapa?
+C: [replied to A's status: pict/status-1.jpg | wfc after a long time] sama siapa
 A: ganangg
 C: kek kenal tempatnya
 A: iyaa ini di sebelah kantor looo
@@ -244,7 +231,7 @@ C: ya ya ntar gue pikirin beneran
 G: kek bisa mikir aja lo
 C: diem disitu gue samperin
 G: BRO
-G: CHAN PLIS CHAN OJO JOTOS AKU RAIKU TAK NGGO KERJO CHAN
+G: CHAN PLIS JANGAN JOTOS GUE NI MUKA GUE PAKE CARI DUIT
 G: iya" silakan dipikirin dulu yang mulia baginda raja chandra 🙏🏻
 [twitter]
 tweet by G: guys, kalian yang punya kakak tuh sering dijadiin samsak tinju sama mereka ga sih? apa cuma gue doang? 🤕
@@ -396,14 +383,14 @@ A: [sent a picture: pict/54.jpg]
 C: LO NGAPAIN DI KAMAR GUE ANJIR
 A: nonton
 A: biar ga gabutzz
-A: [sent a picture: pict/54.jpg]
+A: [sent a sticker: pict/30.jpg]
 C: harus banget di kamar gue?
-A: enak ah ada tv nya gede
+A: enak ada tv nya gede
 A: udh ah berisik lo, jgn ganggu gue mw fokus nonton
 C: lo yang ngechat gue duluan anjir
 C: lo juga ganggu gue kerja
 A: bodo amat wle 🤪
 --- POV: Chandra’s Phone | C  ---
 [twitter]
-tweet by c: yes ntar balik-balik kamar gue pasti bau parfum dia
+tweet by c: yes ntar balik-balik kamar gue pasti kecium bau dia
 c: otw tidur nyenyak
