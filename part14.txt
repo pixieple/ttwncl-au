@@ -91,7 +91,7 @@ tweet by c: gue ga bohong ya, lagian gue kan termasuk 'anak kantor' wkwk
 [wa] Internal Seventh Corps. | | bang jehian sc, katarina sc, onu sc, pak josh sc, rose sc, You
 j: [sent a video: pict/41.jpg] Saya dan Jehian selaku perwakilan dari kantor sudah menjenguk Chandra, ya. Bisa dipastikan Chandra sudah sehat dan besok bisa masuk kerja. Terima kasih.
 r: video laporannya kok isinya ribut doang itu pak
-k: Berarti udah sehat itu, yang dijenguk udah bisa ngomel-ngomel wkwk
+t: Berarti udah sehat itu, yang dijenguk udah bisa ngomel-ngomel wkwk
 w: Gimana ga langsung sehat orang yang nyamperin atasan langsung wkwk
 C: please seseorang bawa mereka pergi dari rumah gue
 C: stres nih, besok gue mau ijin lagi
@@ -100,7 +100,7 @@ C: gamau tau pokoknya kalo ada karyawan yang sakit kalian harus dijenguk juga sa
 C: gue gamau jadi satu-satunya yang ngerasain ini
 r: anjir trauma wkwkwkk
 r: semoga gue sehat2 deh
-k: Amin, semoga aku juga sehat-sehat 😂
+t: Amin, semoga aku juga sehat-sehat 😂
 j: Iya-iya, ini saya sudah mau pulang.
 j: Kalian semua jaga kesehatan, ya.
 w: Wkwk ini mah peringatan halus biar pada nggak ijin sakit
@@ -172,7 +172,7 @@ tweet by w: Gemes banget wkwk
 [wallpaper] pict/a_rc.jpg
 [wa] rumpi no secret muach🤫💅🏻 | pict/rumpi.jpg | Chandra 911, Ganang Artis Komplek, Kirana Ratu Emot, You
 G: guys
-G: [edited his message: gimana besok acara penjemputan mak lampir] gimana besok acara penjemputan tuan putri
+G: [edit his message: gimana besok acara penjemputan mak lampir] gimana besok acara penjemputan tuan putri
 K: Gue udah baca ya anjing 🖕🏻
 G: 😅😅😅😅
 G: barang lo banyak gak? harus banget nih kita jemput pake truk?
