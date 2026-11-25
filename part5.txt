@@ -3,7 +3,7 @@
 [status] You | pict/a_wa.jpg | pict/status-2.jpg | 09.29 AM
 kerja kerja kerjaaa
 [wa] Onu temen chandra | pict/w_wa.jpg |
-W: [replied to D's status: pict/status-1.jpg | kerja kerja kerjaaa] Lagi di mana Sya?
+W: [replied to D's status: pict/status-2.jpg | kerja kerja kerjaaa] Lagi di mana Sya?
 W: Wfc ya?
 A: iyaa nu
 A: ini lagi di couvee tamsis
@@ -32,6 +32,9 @@ W: Tolong share location ya, aku lupa gang rumahmu yang mana wkwk
 A: 😭😭😭😭 oke deh ntar ku share loc
 A: makasih loh ueue maaf ngerepotinn
 W: Nggak ngerepotin Sya, see u besok sabtu ya
+[twitter]
+tweet by a: waduhh 😅😅 ditawarin 😅😅
+a: yaudah deh namanya juga ditawarin hehe 😅😅
 --- 🍀🍀🍀 ---
 [twitter]
 tweet by a: eh mangganya udh pada mateng yak
@@ -47,7 +50,7 @@ C: apa di hapus
 C: papah barusan sampe rumah cerita alysa malem-malem kok manjat pohon mangga
 A: emg gue mau nawarin mangga?
 A: [sent a sticker: pict/21.jpg]
-A: [replied to C's chat: papah barusan sampe rumah cerita alysa malem-malem kok manjat pohon mangga] lah kenapa ga mampirr, bantuin anak cewekmu ini pah,, ayahku sibuk kicau mania
+A: [replied to C's chat: papah barusan sampe rumah cerita alysa malem-malem kok manjat pohon mangga] lah kenapa ga mampirr, bantuin anak cewekmu ini pah,, ayah malah sibuk kicau mania
 A: [sent a sticker: pict/6.jpg]
 C: kan lo punya gue sa
 C: lo bilang juga bakal gue bantuin daritadi
