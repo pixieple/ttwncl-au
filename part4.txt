@@ -15,7 +15,7 @@ A: ih kok tauu
 A: kerenn 🥺🥺
 A: lo bisa baca pikiran gue ya 🥺
 C: kaga bisa lah kocak
-C: kenapaa lo mau minta tolong apa
+C: lo mau minta tolong apa
 A: hehe
 A: anu
 A: gue mau nitip barang dongg
@@ -151,14 +151,14 @@ g: kaga jir
 g: gue abis ketemu dia di amplaz lagi jalan sama suami orang
 A: hah
 A: [sent a sticker: pict/1.jpg]
-K: 😦
+k: 😦
 C: tau dari mana lo kalo itu suami orang?
 g: karna gue kenal lakinya
-K: Siapa?? 😦😦
+k: Siapa?? 😦😦
 g: pak bram cuyy
-K: HAH 😦
-K: PAK BRAM 😦
-K: PAK BRAM SEBELAH RUMAH GUE? 😦😦😦
+k: HAH 😦
+k: PAK BRAM 😦
+k: PAK BRAM SEBELAH RUMAH GUE? 😦😦😦
 g: hooh
 C: mereka masih satu keluarga kali gan
 C: jangan fitnah lo
@@ -173,7 +173,7 @@ g: anjing lo kagak ye
 g: dulu dia ga kaya gitu
 A: lo nya aja yang buta, orang morotin duit lo mulu tuh
 C: [replied to A's chat: lo nya aja yang buta, orang morotin duit lo mulu tuh] sampe nyolong duit mamah
-K: Setuju
+k: Setuju
 k: Mana suka gatel sama dosen muda lagi katanya
 C: wkwk mana bulol lagi ni anak, dikasih tau bebal banget
 g: ya kan abis itu terus gue putusin dia kocak
@@ -330,6 +330,7 @@ C: gue aduin pudding ah lo udah ada anabul baru
 A: biarin wlee padungding bakal tetep sayang sama gueee 🤪
 --- POV: Chandra’s Phone | C  ---
 [twitter]
+tweet by c: yah gajadi jalan deh
 tweet by c: gue juga sa
 c: gue juga bakal tetep sayang sama lo
 c [replied to c]: huft wtb pil anti friendzone
@@ -384,7 +385,7 @@ C: kenapa
 C: btw alysa abis main dari tempat lo lagi ya
 W: Iya. Dia cerita sama lo?
 C: enggak, gue liat dari status dia
-C: kenapa nu
+C: kenapa
 W: Gue mau nanya sama lo tentang Alysa
 W: Dia ada cowok ga chan?
 C: gaada
