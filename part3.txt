@@ -37,8 +37,7 @@ A: [sent a sticker: pict/40.jpg]
 K: Aduh
 K: Gue tadi kaya gembel lagi 🤕
 K: Kenapa gak bilang dulu sih kalo mau ngenalin dia 😭
-G: [replied to G's chat: gue bawa temen gue gapapa kan?] gue udah bilang ya monyet
-G: [replied to G's chat: iye cogan] nih liat mata lo dipake
+G: biar surprise
 K: AH SIAL
 K: 😭😭
 A: gpp kir sp tw dia emg demen sama gembel kaya lo
@@ -117,7 +116,7 @@ K: Yasudah
 K: Besok jangan ngaret‼️ @Chandra 911 @You
 A: lo sendiri yg suka nelat anjir
 A: ngaca
-C: [replied to A's chat: ngaca] (2)
+C: [replied to D's chat: ngaca] (2)
 K: Iya iya anjir gue mulu yang salah
 K: 😔
 K: [replied to C's chat: (2)] Lu tuh harusnya bela gue anjir kan gue sepupu lu
@@ -187,7 +186,6 @@ C: bilang aja saa kek sama siapa aja lo
 C: iya gue tolongin
 C: gimana
 A: abis nganter kirana tolong anterin gue ke demangan baru dong
-A: [sent a sticker: pict/15.jpg]
 C: oh iya ntar gue anterin sa
 C: demangan baru sebelah mananya
 A: rumah onu
@@ -361,6 +359,7 @@ gambar: pict/twt_11.jpg
 a: tp gue kemaren jaim banget pas ketemu angel wkkw
 a [replied to a]: takut bapaknya sawan liat gue wkwk
 --- POV: Chandra's Phone | C  ---
+[wallpaper] pict/c_rc.jpg
 [twitter]
 tweet by c: sialan pake acara salah pencet milih fotonya anjing
 c: malu gue jancok
@@ -369,7 +368,7 @@ tweet by c: gue juga gemes sama lo sa
 c: apa gue pacarin aja yak
 c [replied to c]: prank
 c [replied to c]: when ya adegan gue pacaran sama alysa
-[wa] Kirana Ratu Emot | pict/k_wa.jpg |
+[wa] kiki | pict/k_wa.jpg |
 C: udah sampe mana
 k: Udah di kos lah
 C: oh
@@ -394,4 +393,4 @@ C: kapan-kapan
 k: Konyol
 k: Terus ngapain lu chat gue
 C: gabut aja
-k: 😤😤😤😤
+k: Sialan 😤😤😤😤
